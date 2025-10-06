@@ -139,6 +139,25 @@ Bewaar dit in `/experiments` of deel het als issue met label `prompt-test`.
 
 ---
 
+## 6a. Twee manieren om je bevindingen te delen
+
+Je kunt je testresultaten op twee manieren delen:
+
+### A. Via GitHub Issues (aanbevolen)
+- Ga naar **Issues → New issue → Prompttest**  
+- Vul het formulier in en klik op **Submit**  
+- Je bijdrage wordt zichtbaar in het overzicht, zonder technische stappen
+
+### B. Via code (voor gevorderden)
+- Fork de repository  
+- Voeg je JSON-resultaten toe aan `/experiments`  
+- Maak een pull request
+
+Beide routes helpen om te leren wat werkt en wat niet.  
+Kies wat het beste bij jou past.
+
+---
+
 ## 7. Hoe dit later verwerkt wordt
 
 De volgende fase van Samenspraak (zie [ROADMAP](../ROADMAP.md)) bouwt voort op deze tests:
