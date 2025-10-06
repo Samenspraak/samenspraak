@@ -1,63 +1,55 @@
 # Bijdragen aan Samenspraak
 
-Dank dat je wilt bijdragen aan Samenspraak!  
-We bouwen samen aan een veilige, reflectieve manier van werken met taalmodellen.
+Samenspraak is een open project dat samenwerking en zorgvuldigheid centraal stelt.  
+Bijdragen zijn welkom van iedereen die wil helpen met prompts, documentatie of onderzoek.
 
 ---
 
-## 1. Waar we nu zijn
+## 1. Huidige fase
 
-Samenspraak bevindt zich in de **verkenningsfase**.  
-Er is nog geen backend of applicatie — we werken nu aan:
-
+Het project bevindt zich in de verkenningsfase.  
+Er is nog geen backend of applicatie.  
+We werken aan:
 - het schrijven en testen van prompts;  
 - het documenteren van gesprekslogica;  
-- en het verzamelen van inzichten over toon, bias en neutraliteit.
+- het verzamelen van inzichten over toon, bias en neutraliteit.
 
 ---
 
 ## 2. Twee manieren om bij te dragen
 
-Er zijn twee routes om bij te dragen:
-
 | Route | Voor wie | Uitleg |
 |--------|-----------|--------|
-| **Via GitHub Issues** | Iedereen | Vul een prompttest-formulier in op GitHub (geen technische kennis nodig). |
-| **Via code (PR’s)** | Gevorderde gebruikers | Werk in `/experiments` en dien een pull request in. |
+| **GitHub Issues** | Iedereen | Gebruik het formulier *Prompttest* om een test of observatie te delen. |
+| **Code (PR’s)** | Gevorderden | Voeg data toe in `/experiments` en maak een pull request. |
 
-Lees de uitleg in [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md).
-
----
-
-## 3. Waarden en gedrag
-
-Samenspraak draait om **vertraging, zorg en openheid**.  
-We hanteren een eenvoudige gedragscode:
-
-- We bevragen elkaar zonder oordeel.  
-- We geven feedback met respect en nieuwsgierigheid.  
-- We delen bronnen, ideeën en fouten openlijk.  
-- We houden rekening met elkaars grenzen en achtergronden.
-
-Bij twijfel: ga terug naar het [Manifesto](MANIFESTO.md)  
-en vraag je af of je bijdrage bijdraagt aan verbinding of afstand.
+Zie [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) voor toelichting.
 
 ---
 
-## 4. Licentie en verantwoordelijkheid
+## 3. Gedrag en waarden
 
-Door bij te dragen aan dit project ga je akkoord met de  
-[GNU AGPLv3-licentie](LICENSE) en de toelichting in [LICENSE_POLICY.md](LICENSE_POLICY.md).  
+Bijdragen volgen de waarden uit het [Manifesto](MANIFESTO.md):
 
-Je bijdrage wordt openbaar gedeeld onder dezelfde voorwaarden.
+- Reflectie boven overtuiging.  
+- Transparantie over keuzes.  
+- Zorgvuldigheid in toon en formulering.  
+- Openheid voor verschil van perspectief.
 
 ---
 
-## 5. Vragen of hulp nodig?
+## 4. Licentie
 
-- Voor praktische vragen: open een issue met label `help-wanted`.  
-- Voor inhoudelijke feedback: gebruik het issueformulier “Prompttest”.  
-- Voor technische begeleiding: vraag in een bestaande discussie of via een pull request.
+Bijdragen vallen onder de [GNU AGPLv3-licentie](LICENSE)  
+en de toelichting in [LICENSE_POLICY.md](LICENSE_POLICY.md).  
+Door bij te dragen ga je akkoord met deze voorwaarden.
 
-Dank voor je zorgvuldigheid en nieuwsgierigheid —  
-samen maken we Samenspraak menselijker technologie.
+---
+
+## 5. Ondersteuning
+
+- Voor inhoudelijke vragen: open een issue met label `question`.  
+- Voor technische vragen: gebruik label `help-wanted`.  
+- Voor nieuwe ideeën: maak een issue met label `suggestion`.
+
+Bijdragen worden gewaardeerd en zorgvuldig beoordeeld.

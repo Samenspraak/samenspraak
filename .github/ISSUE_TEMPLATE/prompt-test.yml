@@ -1,0 +1,77 @@
+name: "Prompttest"
+description: "Deel hier een test van een prompt (geen technische kennis vereist)."
+labels: ["prompt-test"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vul onderstaande velden in om een prompttest te delen.  
+        Er is geen installatie of technische kennis nodig.
+
+  - type: input
+    id: pre_prompt
+    attributes:
+      label: "Pre-prompt"
+      description: "De context of rol die je aan het model gaf."
+    validations:
+      required: true
+
+  - type: textarea
+    id: user_input
+    attributes:
+      label: "Gebruikersinvoer"
+      description: "Wat typte je als boodschap of vraag aan het model?"
+    validations:
+      required: true
+
+  - type: input
+    id: post_prompt
+    attributes:
+      label: "Post-prompt"
+      description: "De afsluitende instructie voor het model."
+    validations:
+      required: true
+
+  - type: textarea
+    id: model_output
+    attributes:
+      label: "Reactie van het model"
+      description: "Wat gaf het model als antwoord?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: observations
+    attributes:
+      label: "Observaties"
+      description: "Wat viel op aan toon, inhoud of richting?"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: bias
+    attributes:
+      label: "Bias waargenomen?"
+      options:
+        - "Nee"
+        - "Ja, taalbias"
+        - "Ja, rolbias"
+        - "Ja, ideologische bias"
+        - "Niet zeker"
+
+  - type: dropdown
+    id: injection
+    attributes:
+      label: "Promptinjectie gedetecteerd?"
+      options:
+        - "Nee"
+        - "Ja"
+        - "Niet zeker"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Aanvullende opmerkingen"
+      description: "Voeg context of bijzonderheden toe indien relevant."
+    validations:
+      required: false
