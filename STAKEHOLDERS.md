@@ -25,9 +25,11 @@ Dit overzicht helpt om te zien *voor wie* en *met wie* we werken.
 - **Ontwikkelaars:** vertalen gesprekslogica naar veilige technologie.  
 - **Ontwerpers:** werken aan toegankelijkheid en gebruikservaring.
 
-Iedereen mag meedoen — ook zonder technische kennis — zolang bijdragen in lijn zijn met de waarden uit het [Manifesto](MANIFESTO.md).  
-Niet-technische testers kunnen hun bijdragen delen via **GitHub Issues**  
-met behulp van het formulier “Prompttest”.
+Iedereen kan bijdragen, ook zonder technische kennis.  
+Niet-technische testers kunnen hun bevindingen delen via **GitHub Issues**  
+met behulp van het formulier *Prompttest*.
+
+Bijdragen blijven in lijn met de waarden uit het [Manifesto](MANIFESTO.md).
 
 ---
 
