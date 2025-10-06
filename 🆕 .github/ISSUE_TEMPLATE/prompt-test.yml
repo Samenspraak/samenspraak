@@ -1,0 +1,87 @@
+name: "Prompttest"
+description: "Deel hier je test van een prompt (geen technische kennis nodig)."
+labels: ["prompt-test"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bedankt dat je een prompt wilt testen!  
+        Vul hieronder kort in wat je hebt geprobeerd.  
+        Je hoeft geen code te schrijven of iets te installeren.
+
+  - type: input
+    id: pre_prompt
+    attributes:
+      label: "Pre-prompt"
+      description: "De context of rol die je aan het model gaf (bijv. 'Je bent een neutrale gespreksbegeleider...')."
+    validations:
+      required: true
+
+  - type: textarea
+    id: user_input
+    attributes:
+      label: "Gebruikersinvoer"
+      description: "Wat typte je als boodschap of vraag aan het model?"
+    validations:
+      required: true
+
+  - type: input
+    id: post_prompt
+    attributes:
+      label: "Post-prompt"
+      description: "Wat was de afsluitende instructie (bijv. 'Geef één reflectieve vraag terug...')?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: model_output
+    attributes:
+      label: "Reactie van het model"
+      description: "Wat gaf het model als antwoord?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: observations
+    attributes:
+      label: "Jouw observaties"
+      description: |
+        Wat viel je op aan de toon of inhoud?
+        Was het reflectief, oordeelvrij, of juist sturend?
+        Merkte je bias, advies of interpretatie?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: bias
+    attributes:
+      label: "Bias waargenomen?"
+      options:
+        - "Nee"
+        - "Ja, taalbias"
+        - "Ja, rolbias"
+        - "Ja, ideologische bias"
+        - "Niet zeker"
+
+  - type: dropdown
+    id: injection
+    attributes:
+      label: "Promptinjectie (poging om regels te negeren)?"
+      options:
+        - "Nee"
+        - "Ja"
+        - "Niet zeker"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Extra opmerkingen"
+      description: "Alles wat je verder wilt delen (context, emoties, toon, opvallende woorden...)."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        Dank je wel!  
+        Zodra je op **Submit new issue** klikt, wordt je test zichtbaar in de lijst met open issues.
