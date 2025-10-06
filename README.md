@@ -67,11 +67,17 @@ Zie [`/docs`](docs) voor uitleg over:
 
 ## Meedoen
 
-Iedereen kan bijdragen — technisch of niet-technisch.  
+Iedereen kan bijdragen — met of zonder technische kennis.
 
-- Lees [CONTRIBUTING.md](CONTRIBUTING.md) voor uitleg over hoe je mee kunt doen.  
-- Bekijk [STAKEHOLDERS.md](STAKEHOLDERS.md) om te zien voor wie dit project bedoeld is.  
-- Open een issue als je een suggestie, zorg of idee hebt voor verbetering.
+Er zijn twee manieren:
+
+1. **Via GitHub Issues** – gebruik het formulier “Prompttest” om je bevindingen te delen.  
+   (Je hoeft niets te installeren of te committen.)
+2. **Via code** – voor wie met git werkt: voeg testresultaten toe in `/experiments`  
+   en maak een pull request.
+
+Zie [CONTRIBUTING.md](CONTRIBUTING.md) en [docs/CONTRIBUTOR_PATHS.md](docs/CONTRIBUTOR_PATHS.md)  
+voor uitleg over beide routes.
 
 Bijdragen die aannames bevragen zijn even waardevol als bijdragen die code toevoegen.
 
