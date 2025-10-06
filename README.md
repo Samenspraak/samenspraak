@@ -30,9 +30,9 @@ ruimte om te vertragen, te reflecteren en elkaar beter te begrijpen.
 Je hebt geen technische kennis nodig om te beginnen.
 
 1. Lees het [Manifesto](MANIFESTO.md) om te begrijpen waar het project voor staat.  
-2. Bekijk de eerste voorbeeldprompts in [`/prompts/examples`](prompts/examples).  
-3. Kopieer er één en probeer deze uit in ChatGPT of een ander taalmodel.  
-4. Noteer wat je opviel in [`/experiments`](experiments) of open een issue om erover te praten.
+2. Bekijk de eerste voorbeeldprompts en de uitleg van hun structuur in [`/docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md).  
+3. Gebruik de [Getting Started-gids](docs/PROMPTS_GETTING_STARTED.md) om zelf te oefenen met het testen van prompts.  
+4. Noteer je bevindingen in [`/experiments`](experiments) of open een issue om erover te praten.
 
 Het project groeit door samen te leren.  
 Er is geen vaste methode, nieuwsgierigheid is genoeg.
@@ -43,7 +43,7 @@ Er is geen vaste methode, nieuwsgierigheid is genoeg.
 
 De ontwikkeling van Samenspraak verloopt in open stappen:
 
-1. **Verkennen:** schrijven en testen van eenvoudige prompts.  
+1. **Verkennen:** schrijven en testen van eenvoudige prompts (huidige fase).  
 2. **Structureren:** kleine hulpmiddelen (CLI / API) om gesprekslogica te automatiseren.  
 3. **Samenwerken:** bijdragen van meer mensen, zowel technisch als inhoudelijk.  
 4. **Platform:** een werkende toepassing, lokaal of online.  
@@ -57,8 +57,11 @@ Zie [ROADMAP.md](ROADMAP.md) voor de volledige toelichting.
 Alle keuzes binnen het project zijn gebaseerd op de waarden uit het [Manifesto](MANIFESTO.md).  
 Belangrijke beslissingen worden openlijk vastgelegd in [GOVERNANCE.md](GOVERNANCE.md) en [DECISIONS.md](DECISIONS.md).
 
-Privacy, transparantie en veiligheid staan in elke fase centraal.  
-Meer achtergrond vind je in de documentatie onder [`/docs`](docs).
+De manier waarop prompts worden ontwikkeld, getest en geëvalueerd  
+volgt principes van **neutraliteit, veiligheid en transparantie**.  
+Zie [`/docs`](docs) voor uitleg over:
+- [Prompts en gesprekslogica](docs/PROMPTS_AND_LOGIC.md)  
+- [Praktische gids voor prompttesten](docs/PROMPTS_GETTING_STARTED.md)
 
 ---
 
@@ -86,6 +89,6 @@ over waarom deze licentie is gekozen.
 ## Status
 
 Samenspraak bevindt zich nog in een vroege fase.  
-Misschien blijft het klein — en dat is goed.  
+We werken momenteel aan het **testen, documenteren en verfijnen van de eerste prompts**.  
 Elke stap die helpt om beter te begrijpen hoe technologie gesprekken kan versterken,  
 is er één in de juiste richting.
