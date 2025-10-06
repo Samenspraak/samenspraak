@@ -1,76 +1,53 @@
-# Bijdragen aan Samenspraak – twee routes
+# Bijdragen aan Samenspraak
 
-Niet iedereen die aan Samenspraak wil bijdragen, werkt met code of git.  
-Daarom onderscheiden we twee eenvoudige manieren om mee te doen:
-
-1. **De directe route (via GitHub Issues)** – voor iedereen  
-2. **De technische route (via fork en pull request)** – voor gevorderde gebruikers  
-
-Beide bijdragen zijn gelijkwaardig en belangrijk.
+Samenspraak verwelkomt zowel technische als niet-technische bijdragen.  
+Iedereen kan meedoen, ongeacht ervaring met git of code.
 
 ---
 
-## 1. Route A – Via GitHub Issues (geen technische kennis nodig)
+## 1. Route A – via GitHub Issues
 
-Gebruik deze route als je alleen wilt meedenken, testen of feedback geven.
+Deze route is bedoeld voor deelnemers zonder technische kennis.
 
-### Wat je doet
 1. Ga naar de GitHub-pagina van Samenspraak.  
-2. Klik op **Issues → New issue → Prompttest**.  
-3. Vul het formulier in:
+2. Kies *Issues → New issue → Prompttest*.  
+3. Vul het formulier in met:  
    - Pre-prompt  
    - Input  
    - Post-prompt  
    - Reactie van het model  
-   - Jouw observaties (toon, neutraliteit, bias, veiligheid)
+   - Observaties (toon, bias, veiligheid)  
+4. Klik op *Submit new issue*.
 
-4. Klik op **Submit new issue**.  
-Je test wordt automatisch opgeslagen als issue in het overzicht.
-
-Je hoeft **niets te installeren of te committen**.
+Je bijdrage wordt automatisch geregistreerd.  
+Er is geen installatie of commit nodig.
 
 ---
 
-## 2. Route B – Via code (voor gevorderden)
+## 2. Route B – via code
 
-Gebruik deze route als je ervaring hebt met git of code.
+Deze route is bedoeld voor gebruikers met ervaring in git.
 
-### Wat je doet
 1. Fork de repository.  
-2. Maak een submap in `/experiments/`, bijvoorbeeld:
-   ```
-   /experiments/reflectie-2025/
-   ```
-3. Voeg daarin je testresultaten toe als JSON-bestand, volgens het voorbeeld in  
-   [`docs/PROMPTS_GETTING_STARTED.md`](PROMPTS_GETTING_STARTED.md).  
+2. Maak een submap in `/experiments/`.  
+3. Voeg je testresultaten toe als JSON-bestand.  
 4. Dien een pull request in.
-
-Gebruik deze route als je wilt bijdragen aan de structuur, backend of documentatie.
 
 ---
 
 ## 3. Richtlijnen
 
-- Beide routes zijn welkom.  
-- We beoordelen bijdragen op **zorgvuldigheid, reflectie en transparantie**, niet op technische perfectie.  
+- Beide routes zijn gelijkwaardig.  
+- Bijdragen worden beoordeeld op zorgvuldigheid en transparantie.  
 - Alle bijdragen vallen onder de [AGPLv3-licentie](../LICENSE_POLICY.md).
 
 ---
 
-## 4. Waarom dit onderscheid
+## 4. Samenvatting
 
-Samenspraak is een taal- én technologieproject.  
-Om menselijkheid centraal te houden, willen we dat iedereen kan bijdragen,  
-ongeacht achtergrond of technische kennis.
+| Route | Voor wie | Werkwijze |
+|--------|-----------|-----------|
+| **A. GitHub Issues** | Iedereen | Formulier invullen op GitHub. |
+| **B. Code** | Gevorderden | JSON toevoegen en pull request maken. |
 
----
-
-## 5. Samenvatting
-
-| Route | Voor wie | Wat je doet |
-|--------|-----------|-------------|
-| **A. Via Issues** | Niet-technisch | Formulier invullen in GitHub |
-| **B. Via code** | Technisch | Fork maken, data committen, PR indienen |
-
-Beide dragen bij aan hetzelfde doel:  
-taal en technologie gebruiken om gesprekken menselijker te maken.
+Beide routes dragen bij aan hetzelfde doel: gesprekken menselijker maken door reflectieve taal.
