@@ -67,19 +67,15 @@ Zie [`/docs`](docs) voor uitleg over:
 
 ## Meedoen
 
-Iedereen kan bijdragen — met of zonder technische kennis.
+Iedereen kan bijdragen, met of zonder technische kennis.
 
 Er zijn twee manieren:
 
-1. **Via GitHub Issues** – gebruik het formulier “Prompttest” om je bevindingen te delen.  
-   (Je hoeft niets te installeren of te committen.)
-2. **Via code** – voor wie met git werkt: voeg testresultaten toe in `/experiments`  
-   en maak een pull request.
+1. **Via GitHub Issues** – gebruik het formulier *Prompttest* om bevindingen te delen.  
+2. **Via code** – voeg testresultaten toe in `/experiments` en dien een pull request in.
 
 Zie [CONTRIBUTING.md](CONTRIBUTING.md) en [docs/CONTRIBUTOR_PATHS.md](docs/CONTRIBUTOR_PATHS.md)  
-voor uitleg over beide routes.
-
-Bijdragen die aannames bevragen zijn even waardevol als bijdragen die code toevoegen.
+voor toelichting.
 
 ---
 
