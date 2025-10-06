@@ -1,19 +1,18 @@
 name: "Prompttest"
-description: "Deel hier je test van een prompt (geen technische kennis nodig)."
+description: "Deel hier een test van een prompt (geen technische kennis vereist)."
 labels: ["prompt-test"]
 body:
   - type: markdown
     attributes:
       value: |
-        Bedankt dat je een prompt wilt testen!  
-        Vul hieronder kort in wat je hebt geprobeerd.  
-        Je hoeft geen code te schrijven of iets te installeren.
+        Vul onderstaande velden in om een prompttest te delen.  
+        Er is geen installatie of technische kennis nodig.
 
   - type: input
     id: pre_prompt
     attributes:
       label: "Pre-prompt"
-      description: "De context of rol die je aan het model gaf (bijv. 'Je bent een neutrale gespreksbegeleider...')."
+      description: "De context of rol die je aan het model gaf."
     validations:
       required: true
 
@@ -29,7 +28,7 @@ body:
     id: post_prompt
     attributes:
       label: "Post-prompt"
-      description: "Wat was de afsluitende instructie (bijv. 'Geef één reflectieve vraag terug...')?"
+      description: "De afsluitende instructie voor het model."
     validations:
       required: true
 
@@ -44,11 +43,8 @@ body:
   - type: textarea
     id: observations
     attributes:
-      label: "Jouw observaties"
-      description: |
-        Wat viel je op aan de toon of inhoud?
-        Was het reflectief, oordeelvrij, of juist sturend?
-        Merkte je bias, advies of interpretatie?
+      label: "Observaties"
+      description: "Wat viel op aan toon, inhoud of richting?"
     validations:
       required: false
 
@@ -66,7 +62,7 @@ body:
   - type: dropdown
     id: injection
     attributes:
-      label: "Promptinjectie (poging om regels te negeren)?"
+      label: "Promptinjectie gedetecteerd?"
       options:
         - "Nee"
         - "Ja"
@@ -75,13 +71,7 @@ body:
   - type: textarea
     id: notes
     attributes:
-      label: "Extra opmerkingen"
-      description: "Alles wat je verder wilt delen (context, emoties, toon, opvallende woorden...)."
+      label: "Aanvullende opmerkingen"
+      description: "Voeg context of bijzonderheden toe indien relevant."
     validations:
       required: false
-
-  - type: markdown
-    attributes:
-      value: |
-        Dank je wel!  
-        Zodra je op **Submit new issue** klikt, wordt je test zichtbaar in de lijst met open issues.
