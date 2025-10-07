@@ -13,20 +13,23 @@ Alle experimenten gebeuren handmatig, met bestaande taalmodellen zoals ChatGPT.
 Een prompt is de tekst waarmee een taalmodel wordt aangestuurd.  
 Ze bepaalt toon, houding en richting van wat het model teruggeeft.
 
-In Samenspraak worden prompts gebruikt om gesprekken te **vertragen en verdiepen**.  
+In Samenspraak gebruiken we prompts om gesprekken te **vertragen en verdiepen**.  
 Het doel is niet overtuigen of corrigeren, maar helpen reflecteren en luisteren.
 
 ---
 
-## 3. Opbouw van een Samenspraak-prompt
+## 3. Opbouw van de Samenspraak-prompt
 
-Een gesprek bestaat uit drie lagen:
+Binnen het systeemontwerp van Samenspraak wordt gewerkt met een **drieledig promptontwerp**.  
+Dit is een manier om consistentie en reflectieve diepgang te waarborgen —  
+niet elke prompt hoeft zo opgebouwd te zijn, maar dit is de standaardstructuur  
+voor gebruik binnen Samenspraak.
 
-```
+~~~text
 [Pre-prompt]
 [Input]
 [Post-prompt]
-```
+~~~
 
 | Onderdeel | Functie |
 |------------|----------|
@@ -96,7 +99,7 @@ Bias kan op verschillende niveaus optreden:
 Na het testen kunnen bevindingen worden vastgelegd.  
 Gebruik daarvoor een korte tekst of JSON-structuur, zoals:
 
-```json
+~~~json
 {
   "user_input": "Ik raak gefrustreerd als mensen mijn zorgen over klimaat bagatelliseren.",
   "pre_prompt": "Je bent een neutrale gespreksbegeleider.",
@@ -105,7 +108,7 @@ Gebruik daarvoor een korte tekst of JSON-structuur, zoals:
   "bias_detected": false,
   "notes": "Goede toon, uitnodigend. Eventueel meer nadruk op waardeverkenning."
 }
-```
+~~~
 
 ### Delen van resultaten
 
@@ -131,7 +134,7 @@ Volgens de [ROADMAP](../ROADMAP.md) worden de bevindingen in een volgende fase g
 
 | Fase | Doel |
 |------|------|
-| **2** | Automatisering van pre-, input- en post-prompts. |
+| **2** | Automatisering van de Samenspraak-promptstructuur. |
 | **3** | Toetsing van bias en neutraliteit. |
 | **4** | Ontwikkeling van reflectie-logica en logging. |
 
@@ -164,5 +167,5 @@ Gebaseerd op het [Manifest](../MANIFESTO.md) en [Governance](../GOVERNANCE.md):
 
 ---
 
-Samenspraak gebruikt taal niet om te winnen, maar om te verhelderen.  
+De Samenspraak-promptstructuur gebruikt taal niet om te winnen, maar om te verhelderen.  
 Iedere test draagt bij aan een beter begrip van hoe taalmodellen reflectie kunnen ondersteunen.
