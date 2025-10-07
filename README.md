@@ -69,13 +69,15 @@ Zie [`/docs`](docs) voor uitleg over:
 
 Iedereen kan bijdragen, met of zonder technische kennis.
 
-Er zijn twee manieren:
+Er zijn meerdere routes:
 
-1. **Via GitHub Issues** – gebruik het formulier *Prompttest* om bevindingen te delen.  
-2. **Via code** – voeg testresultaten toe in `/experiments` en dien een pull request in.
+1. **Prompttesten en observaties** – via het formulier *Prompttest* in GitHub Issues.  
+2. **Documentatie en onderzoek** – bijdragen aan toon, ethiek of gesprekslogica.  
+3. **Backend-ontwikkeling (Python)** – bouwen aan API en CLI met FastAPI en LangChain.  
+4. **Frontend & UX** – meedenken over interface en toegankelijkheid.
 
 Zie [CONTRIBUTING.md](CONTRIBUTING.md) en [docs/CONTRIBUTOR_PATHS.md](docs/CONTRIBUTOR_PATHS.md)  
-voor toelichting.
+voor richtlijnen en voorbeelden.
 
 ---
 
@@ -83,7 +85,7 @@ voor toelichting.
 
 Dit project valt onder de **GNU Affero General Public License v3.0 (AGPLv3)**.  
 Zie het bestand [LICENSE](LICENSE) voor de juridische tekst  
-en [LICENSE_POLICY.md](LICENSE_POLICY.md) voor een korte uitleg in gewone taal  
+en [LICENSE_POLICY.md](LICENSE_POLICY.md) voor een uitleg in gewone taal  
 over waarom deze licentie is gekozen.
 
 ---
