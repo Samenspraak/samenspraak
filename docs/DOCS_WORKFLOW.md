@@ -40,9 +40,9 @@ Deze tool maakt het mogelijk om zonder terminal alle bestanden te bundelen.
 1. Open [https://repomix.com](https://repomix.com).  
 2. Voer `Samenspraak/samenspraak` in als GitHub repository.
 3. Kies de instellingen:  
-   - **Include:** `*.md`  
-   - **Output name:** `repomix-output-tree-main.md`  
-4. Klik op **Generate Mix**.  
+   - **Include Patterns:** `*.md`  
+4. Klik op **Pack**.
+5. Sla het bestand `repomix-output-tree-main.md` op .
 
 De UI produceert hetzelfde resultaat als de CLI-versie en helpt bij gezamenlijk schrijven of review.
 
