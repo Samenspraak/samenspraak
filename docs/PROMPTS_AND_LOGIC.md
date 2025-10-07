@@ -1,10 +1,13 @@
 # Prompts en gesprekslogica in Samenspraak
 
-## 1. Waarom meerdere onderdelen?
+## 1. Waarom een gelaagde promptstructuur?
 
-Een enkelvoudige prompt is vaak te beperkt om een gesprek zorgvuldig te begeleiden.  
-Samenspraak werkt daarom met **samenstellende promptonderdelen**: elk met een eigen functie,  
-maar samen gericht op één doel — een gesprek dat verdiept in plaats van polariseert.
+Binnen Samenspraak wordt gewerkt met een **drieledig promptontwerp** dat gesprekken ondersteunt.  
+Het gaat dus niet om de opbouw van het gesprek zelf, maar om hoe het systeem een prompt structureert  
+om reflectieve interacties te begeleiden.
+
+Niet elke prompt hoeft zo te zijn opgebouwd — dit ontwerp is specifiek bedoeld voor  
+de **Samenspraak-promptstructuur**, die later ook in het systeem zal worden geïntegreerd.
 
 ---
 
@@ -16,7 +19,7 @@ maar samen gericht op één doel — een gesprek dat verdiept in plaats van pola
 | **Input** | De letterlijke tekst van de gebruiker | “Ik erger me eraan dat mensen niet luisteren.” |
 | **Post-prompt** | Stuurt de vorm van de reactie | “Geef één reflectieve vraag terug, zonder advies of conclusie.” |
 
-Deze onderdelen worden in vaste volgorde gecombineerd tot één complete prompt  
+Deze onderdelen worden in vaste volgorde gecombineerd tot één samengestelde prompt  
 die aan het model wordt gegeven.
 
 ~~~text
@@ -106,8 +109,10 @@ Mogelijke modelreactie:
 ## 7. Relatie met de roadmap
 
 De gesprekslogica die hier beschreven wordt is **ontwerp, geen implementatie**.  
-Volgens de [ROADMAP](../ROADMAP.md) wordt automatisering pas in fase 2 uitgewerkt.  
-Tot die tijd helpen deze beschrijvingen om:
+Volgens de [ROADMAP](../ROADMAP.md) wordt automatisering van deze promptstructuur  
+pas in fase 2 uitgewerkt.  
+
+Tot die tijd helpt deze beschrijving om:
 
 - consistent te testen,  
 - inzichten te verzamelen,  
@@ -130,7 +135,6 @@ Tot die tijd helpen deze beschrijvingen om:
 
 ## 9. Slot
 
-Door gesprekken op te bouwen uit meerdere, samenwerkende onderdelen,  
-maakt Samenspraak ruimte voor nuance, zorg en transparantie —  
+De Samenspraak-promptstructuur maakt ruimte voor nuance, zorg en transparantie —  
 en voor een vorm van technologie die niet het gesprek overneemt,  
 maar het beter laat verlopen.
