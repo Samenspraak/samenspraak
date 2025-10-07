@@ -1,29 +1,32 @@
 # Bijdragen aan Samenspraak
 
 Samenspraak is een open project dat samenwerking en zorgvuldigheid centraal stelt.  
-Bijdragen zijn welkom van iedereen die wil helpen met prompts, documentatie of onderzoek.
+Iedereen kan bijdragen — met of zonder technische kennis.
 
 ---
 
 ## 1. Huidige fase
 
-Het project bevindt zich in de verkenningsfase.  
-Er is nog geen backend of applicatie.  
-We werken aan:
-- het schrijven en testen van prompts;  
-- het documenteren van gesprekslogica;  
-- het verzamelen van inzichten over toon, bias en neutraliteit.
+Het project bevindt zich in de **verkenningsfase**.  
+We werken aan het verfijnen van de gesprekslogica en het testen van prompts.  
+Daarnaast bereiden we de technische structuur voor toekomstige fasen voor.
 
 ---
 
-## 2. Twee manieren om bij te dragen
+## 2. Manieren om bij te dragen
 
-| Route | Voor wie | Uitleg |
-|--------|-----------|--------|
-| **GitHub Issues** | Iedereen | Gebruik het formulier *Prompttest* om een test of observatie te delen. |
-| **Code (PR’s)** | Gevorderden | Voeg data toe in `/experiments` en maak een pull request. |
+Samenspraak verwelkomt bijdragen via vier routes.  
+Elke route heeft een eigen tempo en vraagt een ander soort kennis.
 
-Zie [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) voor toelichting.
+| Route | Voor wie | Beschrijving |
+|--------|-----------|--------------|
+| **A. Prompttesten (Issues & Code)** | Iedereen / ontwikkelaars | Test prompts via het formulier of als JSON in `/experiments/`. |
+| **B. Documentatie & onderzoek** | Inhoudelijke bijdragers | Werk mee aan toon, logica, ethiek of onderzoek naar bias en veiligheid. |
+| **C. Backend (Python)** | Ontwikkelaars | Bouw aan de API, CLI of logica in `backend/samenspraak` met FastAPI en LangChain. |
+| **D. Frontend & UX** | Ontwerpers / technici | Denk mee over de toekomstige interface en gebruikservaring. |
+
+Zie [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md)  
+voor praktische instructies per route.
 
 ---
 
@@ -40,16 +43,24 @@ Bijdragen volgen de waarden uit het [Manifesto](MANIFESTO.md):
 
 ## 4. Licentie
 
-Bijdragen vallen onder de [GNU AGPLv3-licentie](LICENSE)  
+Alle bijdragen vallen onder de [GNU AGPLv3-licentie](LICENSE)  
 en de toelichting in [LICENSE_POLICY.md](LICENSE_POLICY.md).  
 Door bij te dragen ga je akkoord met deze voorwaarden.
 
 ---
 
-## 5. Ondersteuning
+## 5. Ondersteuning en overleg
 
-- Voor inhoudelijke vragen: open een issue met label `question`.  
-- Voor technische vragen: gebruik label `help-wanted`.  
-- Voor nieuwe ideeën: maak een issue met label `suggestion`.
+Gebruik GitHub-issues met passende labels:
 
-Bijdragen worden gewaardeerd en zorgvuldig beoordeeld.
+| Label | Doel |
+|--------|------|
+| `prompt-test` | Test van een prompt of observatie. |
+| `docs` | Voorstellen of verbeteringen aan documentatie. |
+| `backend` | Vragen of voorstellen over de backend (Python / FastAPI / LangChain). |
+| `frontend` | Ideeën over de interface of gebruikerservaring. |
+| `ethics` | Discussies over waarden, toon of maatschappelijke impact. |
+| `help-wanted` | Verzoek om hulp of samenwerking. |
+
+Bijdragen worden zorgvuldig besproken en beoordeeld.  
+Iedereen is welkom om vragen te stellen of mee te denken.
