@@ -37,7 +37,7 @@ voor gebruik bij documentatie, promptontwikkeling of analyse.
 Voor wie liever grafisch werkt, is er ook de **Repomix-UI**.  
 Deze tool maakt het mogelijk om zonder terminal alle bestanden te bundelen.
 
-1. Open [https://repomix.app](https://repomix.app) of start de lokale UI.  
+1. Open [https://repomix.com](https://repomix.com).  
 2. Voer `Samenspraak/samenspraak` in als GitHub repository.
 3. Kies de instellingen:  
    - **Include:** `*.md`  
