@@ -1,0 +1,76 @@
+name: "Ethics & Language Review"
+description: "Onderzoek of de toon, waarden en stijl in de documentatie nog overeenkomen met de bedoeling van Samenspraak."
+labels: ["ethics-check", "documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Deze review helpt om na te gaan of de taal en toon in de repository
+        nog in lijn zijn met het [Manifesto](../../MANIFESTO.md)
+        en de [LLM Language and Tone Guide](../../LLM_LANGUAGE_AND_TONE_GUIDE.md).
+
+        Het doel is niet om fouten aan te wijzen, maar om stil te staan bij
+        hoe zorgvuldig en helder we met taal omgaan.
+
+  - type: dropdown
+    id: scope
+    attributes:
+      label: "Wat is er gecontroleerd?"
+      options:
+        - "Alleen LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md"
+        - "Manifest + Language and Tone Guide"
+        - "Volledige documentatie"
+        - "Nieuwe of gewijzigde bestanden"
+      default: "Volledige documentatie"
+
+  - type: textarea
+    id: observations
+    attributes:
+      label: "Wat valt op in toon of stijl?"
+      description: "Beschrijf in gewone taal wat je is opgevallen. Denk aan toon, helderheid, rust, of afstemming met het Manifest."
+      placeholder: "Bijvoorbeeld: de toon in README.md klinkt technischer dan elders..."
+
+  - type: dropdown
+    id: alignment
+    attributes:
+      label: "Sluit de toon nog aan bij de waarden van Samenspraak?"
+      options:
+        - "Ja, volledig in lijn"
+        - "Grotendeels in lijn, kleine aanpassing mogelijk"
+        - "De toon wijkt merkbaar af"
+        - "Nog onduidelijk, verdere bespreking nodig"
+
+  - type: textarea
+    id: suggestions
+    attributes:
+      label: "Welke aanpassing of herziening stel je voor?"
+      description: "Formuleer kort wat kan helpen om toon, rust of helderheid te herstellen."
+      placeholder: "Bijvoorbeeld: de inleiding van de guide kan eenvoudiger geformuleerd worden."
+
+  - type: checkboxes
+    id: files
+    attributes:
+      label: "Welke onderdelen zijn bekeken?"
+      options:
+        - label: "Manifesto.md"
+        - label: "LLM_LANGUAGE_AND_TONE_GUIDE.md"
+        - label: "DOCS_WORKFLOW.md"
+        - label: "Overige documentatie"
+        - label: "Prompts of voorbeelden"
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: "Is een update nodig?"
+      options:
+        - "Nee, alles klopt"
+        - "Ja, kleine redactionele aanpassing"
+        - "Ja, inhoudelijke herziening"
+        - "Nog overleg nodig"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Overige opmerkingen"
+      description: "Ruimte voor reflecties, vragen of bredere observaties."
+      placeholder: "Wat zegt deze check over hoe we schrijven of samenwerken?"
