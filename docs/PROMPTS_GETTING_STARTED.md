@@ -1,29 +1,30 @@
 # Werken met prompts in Samenspraak
 
-## 1. Doel van deze gids
-
-Deze gids helpt bij het testen en ontwikkelen van prompts binnen Samenspraak.  
-Het project bevindt zich nog in de verkenningsfase: er is geen backend of applicatie.  
-Alle experimenten gebeuren handmatig, met bestaande taalmodellen zoals ChatGPT.
-
----
-
-## 2. Wat is een prompt
-
-Een prompt is de tekst waarmee een taalmodel wordt aangestuurd.  
-Ze bepaalt toon, houding en richting van wat het model teruggeeft.
-
-In Samenspraak gebruiken we prompts om gesprekken te **vertragen en verdiepen**.  
-Het doel is niet overtuigen of corrigeren, maar helpen reflecteren en luisteren.
+Deze gids legt uit hoe je binnen Samenspraak werkt met prompts.  
+Een prompt is de tekst waarmee een taalmodel wordt aangesproken.  
+De bedoeling is te begrijpen hoe een gesprek stap voor stap ontstaat  
+en hoe observaties zorgvuldig kunnen worden vastgelegd.
 
 ---
 
-## 3. Opbouw van de Samenspraak-prompt
+## 1. Wat een prompt is
 
-Binnen het systeemontwerp van Samenspraak wordt gewerkt met een **drieledig promptontwerp**.  
-Dit is een manier om consistentie en reflectieve diepgang te waarborgen —  
-niet elke prompt hoeft zo opgebouwd te zijn, maar dit is de standaardstructuur  
-voor gebruik binnen Samenspraak.
+Een prompt is één bericht aan een taalmodel.  
+Het kan een vraag zijn, een beschrijving of een aanwijzing voor toon en rol.  
+In Samenspraak gebruiken we prompts om gesprekken te vertragen en te verhelderen.  
+Niet om te sturen of te overtuigen.
+
+Een gesprek bestaat uit meerdere prompts die elkaar opvolgen.  
+Na elke reactie van het model ontstaat een nieuwe context.  
+De volgende prompt sluit daarbij aan of brengt een andere richting in.  
+Zo wordt elk bericht onderdeel van een reflectief gesprek.
+
+---
+
+## 2. De structuur van een Samenspraak-prompt
+
+Om consistent te werken gebruikt Samenspraak een vaste ordening.  
+Elke prompt bestaat uit drie hoofdonderdelen:
 
 ~~~text
 [Pre-prompt]
@@ -31,141 +32,172 @@ voor gebruik binnen Samenspraak.
 [Post-prompt]
 ~~~
 
-| Onderdeel | Functie |
-|------------|----------|
-| **Pre-prompt** | Legt rol, toon en grenzen vast. |
-| **Input** | De tekst van de gebruiker. |
-| **Post-prompt** | Bepaalt de vorm van de reactie. |
+
+| Onderdeel | Functie | Wanneer |
+|------------|----------|----------|
+| **Pre-prompt** | Legt de rol, toon en grenzen vast. | Aan het begin van een gesprek of nieuwe fase. |
+| **Input** | De tekst van de gebruiker. | Bij elke nieuwe beurt. |
+| **Post-prompt** | Stuurt de vorm van de reactie. | Na elke invoer of taak. |
+
+Na elke ronde kan één of meer onderdelen licht veranderen.  
+De pre-prompt kan herhaald worden met een nuance.  
+De post-prompt kan een extra aanwijzing bevatten.  
+Zo ontstaat een natuurlijke wisselwerking tussen mens en model.
 
 ---
 
-## 4. Prompts testen
+## 3. Voorbeeld van een gesprek
 
-1. Open een nieuwe chat.  
-2. Plak de pre-prompt.  
-3. Voeg de gebruikersinvoer toe.  
+| Fase | Pre-prompt | Input | Post-prompt | Reactie van het model |
+|------|-------------|--------|--------------|------------------------|
+| 1 | “Je bent een neutrale gespreksbegeleider.” | “Ik voel me niet gehoord.” | “Geef één reflectieve vraag terug, zonder advies.” | “Wat zou het voor jou betekenen als je je wel gehoord voelt?” |
+| 2 | “Je blijft in dezelfde rol.” | “Dat zou rust geven, maar ik weet niet hoe.” | “Formuleer een vraag die helpt onderzoeken wat rust voor jou betekent.” | “Wat maakt rust voor jou belangrijk in dit gesprek?” |
+
+Elke rij laat een moment in het gesprek zien.  
+De woorden, de context en de toon bepalen samen het verloop.
+
+---
+
+## 4. Een test uitvoeren
+
+Wie een prompt wil testen, werkt stap voor stap.
+
+1. Open een nieuwe chat met een taalmodel.  
+2. Voeg de pre-prompt toe.  
+3. Typ de gebruikersinvoer.  
 4. Sluit af met de post-prompt.  
-5. Observeer de toon en diepgang van de reactie.
+5. Lees de reactie aandachtig.  
+6. Noteer wat opvalt in toon, houding en betekenis.
 
-### Eenvoudig voorbeeld
-
-| Stap | Tekst |
-|------|-------|
-| Pre | “Je bent een neutrale gespreksbegeleider. Stel reflectieve vragen zonder oordeel.” |
-| Input | “Ik voel me niet gehoord.” |
-| Post | “Geef één reflectieve vraag terug, zonder advies of conclusie.” |
-| Resultaat | “Wat zou het voor jou betekenen als je je wel gehoord voelt?” |
+Het doel is niet om een goed of fout antwoord te vinden.  
+Het gaat om het waarnemen van toon, neutraliteit en richting.
 
 ---
 
-### Uitgebreider voorbeeld
+## 5. Waarop te letten
 
-| Stap | Tekst |
-|------|-------|
-| **Pre-prompt** | “Je begeleidt een gesprek waarin spanning voelbaar is. Stel vragen die helpen onderliggende waarden te verkennen, zonder richting of oordeel.” |
-| **Input** | “Ik heb vaak discussies met mijn collega over duurzaamheid. Hij noemt mij idealistisch en ik word daar boos van.” |
-| **Post-prompt** | “Formuleer één reflectieve vraag die helpt onderzoeken wat er onder die boosheid ligt. Vermijd advies of interpretatie.” |
-| **Mogelijke reactie** | “Wat raakt jou het meest als hij zegt dat je te idealistisch bent?” |
-| **Observatie** | De vraag nodigt uit tot zelfonderzoek zonder oordeel. |
+### Neutraliteit
+- Blijft de reactie vrij van oordeel of richting  
+- Houdt het model de rol van begeleider aan
 
----
-
-## 5. Waarop te letten bij het testen
-
-### Neutraliteit en toon
-- Vermijd sturende of moraliserende formuleringen.  
-- Gebruik open vragen zoals “Wat maakt dat…” of “Hoe ervaar jij…”.  
-- Houd de toon uitnodigend, niet adviserend.
+### Toon
+- Klinkt de taal rustig en uitnodigend  
+- Wordt er vermeden om te adviseren of te interpreteren
 
 ### Bias
-Bias kan op verschillende niveaus optreden:
-- **Taalbias:** woorden met emotionele lading.  
-- **Rolbias:** impliciet partij kiezen.  
-- **Ideologische bias:** voorkeur voor een bepaald wereldbeeld.  
+Bias kan zich op verschillende manieren tonen.
+
+- **Taalbias:** woorden met emotionele of culturele lading  
+- **Rolbias:** impliciet partij kiezen of gedrag toeschrijven  
+- **Ideologische bias:** voorkeur voor één wereldbeeld  
+
+Wanneer iets opvalt, noteer dat feitelijk en zonder oordeel.  
+Bijvoorbeeld: “De toon klinkt zorgend, mogelijk te persoonlijk.”
 
 ### Veiligheid
-- Vermijd advies of diagnose.  
-- Ga niet te diep in op persoonlijke thema’s.  
-- Behoud een reflectieve afstand.
+- Blijft de reactie op afstand van advies of diagnose  
+- Wordt emotie erkend zonder te duiden
 
-### Belangen
-- Wees transparant over context en mogelijke belangen.  
-- Noteer wanneer taal een bepaald perspectief bevoordeelt.
+### Continuïteit
+- Houdt het model rekening met eerdere context  
+- Verandert de toon gaandeweg, en waarom
 
 ---
 
-## 6. Bevindingen noteren en delen
+## 6. Bevindingen vastleggen
 
-Na het testen kunnen bevindingen worden vastgelegd.  
-Gebruik daarvoor een korte tekst of JSON-structuur, zoals:
+Observaties kunnen kort worden opgeschreven of in een JSON-bestand worden gezet.  
+Zo blijven ze herleidbaar en bruikbaar voor latere analyse.
 
 ~~~json
 {
-  "user_input": "Ik raak gefrustreerd als mensen mijn zorgen over klimaat bagatelliseren.",
   "pre_prompt": "Je bent een neutrale gespreksbegeleider.",
-  "post_prompt": "Geef één reflectieve vraag terug die helpt onderzoeken wat er onder de frustratie ligt.",
-  "model_output": "Wat betekent het voor jou om serieus genomen te worden in dit onderwerp?",
+  "user_input": "Ik voel me niet gehoord.",
+  "post_prompt": "Geef één reflectieve vraag terug zonder advies.",
+  "model_output": "Wat zou het voor jou betekenen als je je wel gehoord voelt?",
   "bias_detected": false,
-  "notes": "Goede toon, uitnodigend. Eventueel meer nadruk op waardeverkenning."
+  "notes": "Rustige toon. Geen oordeel. Eventueel meer variatie in vraagvorm."
 }
 ~~~
 
-### Delen van resultaten
+### Uitleg van de velden
 
-Er zijn twee mogelijkheden:
+| Veld | Betekenis | Richtlijn |
+|------|------------|-----------|
+| **pre_prompt** | Context of rol van het model | Houd neutraal en reflectief |
+| **user_input** | De tekst van de gebruiker | Overnemen zonder aanpassing |
+| **post_prompt** | Instructie voor het model | Kort en richtinggevend |
+| **model_output** | Reactie van het model | Exact overnemen |
+| **bias_detected** | Waarneembare bias | Alleen *true* bij duidelijke aanwijzing |
+| **notes** | Observaties of reflecties | Feitelijk, niet beoordelend |
+
+Gebruik altijd de feitelijke reactie en geen voorbeeldtekst.  
+Het is juist de nuance die leerzaam is.
+
+---
+
+## 7. Resultaten delen
+
+Er zijn twee manieren om testresultaten bij te dragen.
 
 **A. Via GitHub Issues (aanbevolen)**  
 - Ga naar *Issues → New issue → Prompttest*.  
-- Vul het formulier in en verstuur het.  
-- Er is geen technische handeling nodig.
+- Vul de velden in en verstuur het formulier.  
+- Er is geen technische kennis nodig.
 
-**B. Via code (voor gevorderden)**  
-- Fork de repository.  
-- Voeg het JSON-bestand toe in `/experiments`.  
-- Maak een pull request.
+**B. Via JSON-bestand (voor gevorderden)**  
+- Voeg het bestand toe in `/experiments/`.  
+- Gebruik hetzelfde veldformaat als hierboven.  
+- Dien een pull request in met label `prompt-test`.
 
-Kies de methode die het best bij je ervaring past.
-
----
-
-## 7. Hoe resultaten later worden verwerkt
-
-Volgens de [ROADMAP](../ROADMAP.md) worden de bevindingen in een volgende fase gebruikt om:
-
-| Fase | Doel |
-|------|------|
-| **2** | Automatisering van de Samenspraak-promptstructuur. |
-| **3** | Toetsing van bias en neutraliteit. |
-| **4** | Ontwikkeling van reflectie-logica en logging. |
-
-De huidige fase richt zich uitsluitend op observatie en inzicht.
+Beide routes zijn gelijkwaardig.  
+De eerste is toegankelijk en de tweede herhaalbaar.
 
 ---
 
-## 8. Ethische uitgangspunten
+## 8. Gebruik van de resultaten
 
-Gebaseerd op het [Manifest](../MANIFESTO.md) en [Governance](../GOVERNANCE.md):
+De observaties uit deze fase helpen om de logica van Samenspraak verder te ontwikkelen.  
+Volgens de [ROADMAP](../ROADMAP.md) worden ze later gebruikt voor:
 
-- Transparantie over keuzes.  
-- Ruimte voor verschil.  
-- Geen oordeel of advies.  
-- Menselijkheid boven techniek.  
-- Gedeelde verantwoordelijkheid.
+| Fase | Toepassing |
+|------|-------------|
+| **2** | Automatisering van de promptstructuur |
+| **3** | Analyse van bias en neutraliteit |
+| **4** | Ontwikkeling van reflectieve logica en logging |
 
----
-
-## 9. Samenvatting
-
-| Onderwerp | Richtlijn |
-|------------|-----------|
-| Neutraliteit | Open, reflectief, niet sturend. |
-| Bias | Signaleren en documenteren. |
-| Veiligheid | Vermijd advies of therapie. |
-| Belangen | Transparant benoemen. |
-| Injectie | Herkennen van manipulerende invoer. |
-| Privacy | Geen herleidbare gegevens. |
+Elke test is een bouwsteen in dit proces.
 
 ---
 
-De Samenspraak-promptstructuur gebruikt taal niet om te winnen, maar om te verhelderen.  
-Iedere test draagt bij aan een beter begrip van hoe taalmodellen reflectie kunnen ondersteunen.
+## 9. Ethische uitgangspunten
+
+De manier van werken is afgeleid van het [Manifest](../MANIFESTO.md) en de [Governance](../GOVERNANCE.md).
+
+- Transparantie over keuzes en context  
+- Geen oordeel of advies  
+- Ruimte voor verschil en nuance  
+- Zorgvuldigheid bij gevoelige thema’s  
+- Menselijkheid boven efficiëntie
+
+---
+
+## 10. Samenvatting
+
+| Aspect | Richtlijn |
+|---------|------------|
+| **Prompt** | Eén bericht binnen een lopend gesprek |
+| **Structuur** | Pre-prompt → Input → Post-prompt |
+| **Observatie** | Let op toon, bias, veiligheid en continuïteit |
+| **Notatie** | Gebruik JSON of formulier |
+| **Doel** | Reflectie, niet prestatie |
+| **Bron** | Manifest en LLM Prompt Style and Language Guide |
+
+---
+
+## Slot
+
+Elke prompt is een uitnodiging tot aandacht.  
+Door zorgvuldig te testen en te beschrijven  
+helpen we technologie om menselijk te blijven klinken  
+en leren we zelf beter luisteren.
