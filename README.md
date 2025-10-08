@@ -29,7 +29,7 @@ Onderstaande documenten helpen je om te verkennen, begrijpen en bijdragen.
 | Onderwerp | Document | Doel |
 |------------|-----------|------|
 | **Werken met prompts** | [`docs/PROMPTS_GETTING_STARTED.md`](docs/PROMPTS_GETTING_STARTED.md) | Zelf oefenen met voorbeeldprompts |
-| **Opbouw en logica** | [`docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md) | Begrijpen hoe de Samenspraak-promptstructuur werkt |
+| **Opbouw en logica** | [`docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md) | Begrijpen hoe Samenspraak gesprekken structureert en hoe taalmodellen binnen vaste kaders reageren |
 | **Samen schrijven met hulpmiddelen** | [`docs/DOCS_WORKFLOW.md`](docs/DOCS_WORKFLOW.md) | Toelichting op toon, stijl en gebruik van ChatGPT of Repomix |
 | **Routes voor bijdragen** | [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) | Uitleg over de verschillende manieren om mee te doen |
 | **Waarden en besluitvorming** | [`GOVERNANCE.md`](GOVERNANCE.md) | Beschrijving van besluitvorming, rollen en transparantie |
