@@ -36,6 +36,28 @@ Onderstaande documenten helpen je om te verkennen, begrijpen en bijdragen.
 
 ---
 
+## Waarom dit voor iedereen van waarde is
+
+Samenspraak vertrekt vanuit één eenvoudige gedachte:  
+dat gesprekken beter worden wanneer we aandachtiger luisteren.  
+
+De uiteindelijke tool is bedoeld voor iedereen die taal gebruikt  
+om iets te begrijpen of te delen.  
+Of dat nu in zorg, onderwijs, onderzoek, bestuur of dagelijks leven is,  
+het gaat steeds om hetzelfde: woorden die helpen om verschil te onderzoeken  
+zonder oordeel of haast.
+
+Samenspraak ondersteunt dat proces.  
+Niet door antwoorden te geven, maar door ruimte te maken  
+voor wat mensen werkelijk bedoelen.  
+Zo kan technologie bijdragen aan gesprekken die rustiger, eerlijker en menselijker zijn.
+
+Wie later met Samenspraak werkt, gebruikt geen slim systeem,  
+maar een hulpmiddel dat helpt om beter te horen wat er gezegd wordt.  
+Iedereen kan dit onderzoeken, proberen en verbeteren, stap voor stap, samen.
+
+---
+
 ## Huidige fase
 
 Het project bevindt zich in de **verkenningsfase**.  
@@ -91,5 +113,9 @@ en [LICENSE_POLICY.md](LICENSE_POLICY.md) voor een uitleg in gewone taal.
 Samenspraak groeit stap voor stap.  
 Iedere bijdrage, technisch of reflectief, helpt om te begrijpen  
 hoe taal technologie menselijk kan houden.  
-De uitnodiging is eenvoudig:  
-lees, onderzoek, test, en deel wat je ontdekt.
+
+Je kunt meedoen door te testen, te schrijven, te onderzoeken of te bouwen,  
+of eenvoudig te verkennen wat aandachtig taalgebruik voor jou betekent.  
+
+De uitnodiging blijft dezelfde:  
+lees, onderzoek, ervaar en deel wat je ontdekt.
