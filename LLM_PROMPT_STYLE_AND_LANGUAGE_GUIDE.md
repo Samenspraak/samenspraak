@@ -1,4 +1,4 @@
-# LLM Language and Tone Guide
+# LLM Prompt Style and Language Guide
 
 Deze gids beschrijft hoe taal en toon binnen **Samenspraak** worden vormgegeven.  
 Ze helpt om automatisch gegenereerde teksten, zoals documentatie, prompts of toelichtingen,  
@@ -111,6 +111,17 @@ wanneer teksten worden bewerkt of samengevoegd met Repomix.
 - **Rustige witruimte** tussen alinea’s.  
 - **Korte zelfstandige zinnen** zonder ritmische streepjes.  
 - **Neutrale toon** zonder oordeel of overtuiging.
+
+### Markdown en codeblokken
+
+Om consistente weergave in ChatGPT, GitHub en Repomix te behouden:
+
+- Gebruik altijd drie **backticks** (```) om een volledig codeblok te openen en te sluiten.  
+- Gebruik drie **tildes** (`~~~`) voor binnenliggende voorbeelden, zoals JSON of tekstfragmenten.  
+  Dit voorkomt dat een binnenblok het buitenste codeblok voortijdig afsluit.  
+- Gebruik `~~~text` of `~~~json` om de inhoudstype te verduidelijken.  
+- Plaats nooit geneste backticks binnen backticks.  
+- Gebruik witruimte vóór en na codeblokken om de leesbaarheid te behouden.
 
 Controleer bij toevoegingen of deze basisvorm behouden blijft.
 
