@@ -5,94 +5,91 @@
 
 ---
 
-## Over het project
+## Begin bij het Manifest
 
-Samenspraak begon met een eenvoudige vraag:  
-Wat als taalmodellen niet bedoeld zijn om te overtuigen,  
-maar juist kunnen helpen om beter te luisteren?
+Lees eerst het [Manifesto](MANIFESTO.md).  
+Het beschrijft waarom Samenspraak bestaat, welke waarden het draagt  
+en wat het probeert te veranderen in hoe we met elkaar spreken.
 
-Het project onderzoekt hoe bestaande LLM’s (zoals ChatGPT)  
-kunnen worden gebruikt om gesprekken te begeleiden en te verkennen,  
-zonder aannames te doen of stelling te kiezen.
-
-Het doel is niet om een nieuw model te bouwen,  
-maar om een verzameling **prompts en gesprekslogica** te ontwikkelen  
-die gesprekken bewuster, opener en menselijker maakt.
-
-Samenspraak is nu een open experiment.  
-We willen leren hoe technologie ruimte kan scheppen —  
-ruimte om te vertragen, te reflecteren en elkaar beter te begrijpen.
+Het Manifest vormt de grondslag van het project.  
+De rest van de documentatie laat zien hoe dat gedachtegoed  
+zich vertaalt naar ontwerp, taal en samenwerking.
 
 ---
 
-## Aan de slag
+## Oriëntatie
 
-Je hebt geen technische kennis nodig om te beginnen.
+Samenspraak is een open experiment.  
+We onderzoeken hoe taalmodellen kunnen helpen om gesprekken te vertragen,  
+te verdiepen en ruimte te maken voor verschil.  
+Niet om te overtuigen, maar om beter te luisteren.
 
-1. Lees het [Manifesto](MANIFESTO.md) om te begrijpen waar het project voor staat.  
-2. Bekijk de eerste voorbeeldprompts en de uitleg van hun structuur in [`/docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md).  
-3. Gebruik de [Getting Started-gids](docs/PROMPTS_GETTING_STARTED.md) om zelf te oefenen met het testen van prompts.  
-4. Noteer je bevindingen in [`/experiments`](experiments) of open een issue om erover te praten.
+Onderstaande documenten helpen je om te verkennen, begrijpen en bijdragen.
 
-Het project groeit door samen te leren.  
-Er is geen vaste methode, nieuwsgierigheid is genoeg.
-
----
-
-## Ontwikkelpad
-
-De ontwikkeling van Samenspraak verloopt in open stappen:
-
-1. **Verkennen:** schrijven en testen van eenvoudige prompts (huidige fase).  
-2. **Structureren:** kleine hulpmiddelen (CLI / API) om gesprekslogica te automatiseren.  
-3. **Samenwerken:** bijdragen van meer mensen, zowel technisch als inhoudelijk.  
-4. **Platform:** een werkende toepassing, lokaal of online.  
-
-Zie [ROADMAP.md](ROADMAP.md) voor de volledige toelichting.
+| Onderwerp | Document | Doel |
+|------------|-----------|------|
+| **Werken met prompts** | [`docs/PROMPTS_GETTING_STARTED.md`](docs/PROMPTS_GETTING_STARTED.md) | Zelf oefenen met voorbeeldprompts |
+| **Opbouw en logica** | [`docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md) | Begrijpen hoe de Samenspraak-promptstructuur werkt |
+| **Samen schrijven met hulpmiddelen** | [`docs/DOCS_WORKFLOW.md`](docs/DOCS_WORKFLOW.md) | Toelichting op toon, stijl en gebruik van ChatGPT of Repomix |
+| **Routes voor bijdragen** | [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) | Uitleg over de verschillende manieren om mee te doen |
+| **Waarden en besluitvorming** | [`GOVERNANCE.md`](GOVERNANCE.md) | Beschrijving van besluitvorming, rollen en transparantie |
 
 ---
 
-## Waarden en besluitvorming
+## Huidige fase
 
-Alle keuzes binnen het project zijn gebaseerd op de waarden uit het [Manifesto](MANIFESTO.md).  
-Belangrijke beslissingen worden openlijk vastgelegd in [GOVERNANCE.md](GOVERNANCE.md) en [DECISIONS.md](DECISIONS.md).
+Het project bevindt zich in de **verkenningsfase**.  
+Er is nog geen backend of applicatie.  
+We werken aan:
 
-De manier waarop prompts worden ontwikkeld, getest en geëvalueerd  
-volgt principes van **neutraliteit, veiligheid en transparantie**.  
-Zie [`/docs`](docs) voor uitleg over:
-- [Prompts en gesprekslogica](docs/PROMPTS_AND_LOGIC.md)  
-- [Praktische gids voor prompttesten](docs/PROMPTS_GETTING_STARTED.md)
+- het schrijven en testen van prompts;  
+- het documenteren van gesprekslogica;  
+- het verzamelen van observaties over toon, bias en neutraliteit.
+
+De technische componenten worden later toegevoegd,  
+zoals beschreven in de [ROADMAP](ROADMAP.md).
 
 ---
 
 ## Meedoen
 
-Iedereen kan bijdragen, met of zonder technische kennis.
-
-Er zijn meerdere routes:
+Iedereen kan bijdragen, met of zonder technische kennis.  
+Er zijn verschillende routes:
 
 1. **Prompttesten en observaties** – via het formulier *Prompttest* in GitHub Issues.  
 2. **Documentatie en onderzoek** – bijdragen aan toon, ethiek of gesprekslogica.  
-3. **Backend-ontwikkeling (Python)** – bouwen aan API en CLI met FastAPI en LangChain.  
+3. **Backend-ontwikkeling (Python)** – bouwen aan API en CLI.  
 4. **Frontend & UX** – meedenken over interface en toegankelijkheid.
 
-Zie [CONTRIBUTING.md](CONTRIBUTING.md) en [docs/CONTRIBUTOR_PATHS.md](docs/CONTRIBUTOR_PATHS.md)  
-voor richtlijnen en voorbeelden.
+Zie [CONTRIBUTING.md](CONTRIBUTING.md)  
+en [docs/CONTRIBUTOR_PATHS.md](docs/CONTRIBUTOR_PATHS.md)  
+voor praktische uitleg per route.
+
+---
+
+## Werken met toon en taal
+
+Alle teksten in deze repository volgen de richtlijnen uit  
+[`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md),  
+die samen met het Manifest bepaalt hoe Samenspraak klinkt en schrijft.  
+
+Wie werkt met ChatGPT of een ander hulpmiddel gebruikt deze bestanden als vaste context,  
+zodat toon en waarden consistent blijven.
 
 ---
 
 ## Licentie
 
-Dit project valt onder de **GNU Affero General Public License v3.0 (AGPLv3)**.  
-Zie het bestand [LICENSE](LICENSE) voor de juridische tekst  
-en [LICENSE_POLICY.md](LICENSE_POLICY.md) voor een uitleg in gewone taal  
-over waarom deze licentie is gekozen.
+Samenspraak is vrij beschikbaar onder de **GNU Affero General Public License v3.0 (AGPLv3)**.  
+Zie [LICENSE](LICENSE) voor de volledige juridische tekst  
+en [LICENSE_POLICY.md](LICENSE_POLICY.md) voor een uitleg in gewone taal.
 
 ---
 
-## Status
+## Slot
 
-Samenspraak bevindt zich nog in een vroege fase.  
-We werken momenteel aan het **testen, documenteren en verfijnen van de eerste prompts**.  
-Elke stap die helpt om beter te begrijpen hoe technologie gesprekken kan versterken,  
-is er één in de juiste richting.
+Samenspraak groeit stap voor stap.  
+Iedere bijdrage, technisch of reflectief, helpt om te begrijpen  
+hoe taal technologie menselijk kan houden.  
+De uitnodiging is eenvoudig:  
+lees, onderzoek, test, en deel wat je ontdekt.
