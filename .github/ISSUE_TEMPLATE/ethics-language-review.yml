@@ -1,6 +1,6 @@
 name: "Ethics & Language Review"
 description: "Onderzoek of de toon, waarden en stijl in de documentatie nog overeenkomen met de bedoeling van Samenspraak."
-labels: ["ethics-check", "documentation"]
+labels: ["ethics", "docs"]
 body:
   - type: markdown
     attributes:
