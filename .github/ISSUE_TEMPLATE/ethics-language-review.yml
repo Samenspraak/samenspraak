@@ -21,7 +21,6 @@ body:
         - "Manifest + Language and Tone Guide"
         - "Volledige documentatie"
         - "Nieuwe of gewijzigde bestanden"
-      default: "Volledige documentatie"
 
   - type: textarea
     id: observations
