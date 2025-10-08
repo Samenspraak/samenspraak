@@ -1,4 +1,4 @@
-# Samenspraak
+# Samenspraak (werktitel)
 
 **Open framework voor reflectieve gesprekken met taalmodellen**  
 *Een experiment om te ontdekken hoe technologie gesprekken kan ondersteunen in plaats van overnemen.*
