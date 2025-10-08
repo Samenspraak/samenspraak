@@ -1,9 +1,17 @@
 # Prompts en gesprekslogica in Samenspraak
 
-Deze gids beschrijft hoe Samenspraak werkt met vaste prompts  
-om gesprekken rustig, open en menselijk te begeleiden.  
-Ze sluit aan op [PROMPTS_GETTING_STARTED.md](PROMPTS_GETTING_STARTED.md),  
-waar wordt uitgelegd hoe prompttesten worden uitgevoerd.
+Dit document beschrijft de kern van Samenspraak:  
+hoe vaste menselijke kaders en taalmodellen samen één reflectieve gespreksruimte vormen.
+
+Samenspraak gebruikt taalmodellen niet om te overtuigen of te adviseren,  
+maar om gesprekken te ondersteunen die aandachtig en gelijkwaardig blijven.  
+Daarvoor werken we met vaste pre- en post-prompts  
+die de toon, volgorde en houding van een gesprek bepalen.
+
+De hier beschreven aanpak is de huidige insteek.  
+We onderzoeken voortdurend hoe deze structuur zich verder kan ontwikkelen,  
+en of de inzet van LLM’s op termijn anders of ruimer kan worden vormgegeven  
+naarmate het begrip van hun werking groeit.
 
 ---
 
@@ -279,5 +287,13 @@ De gesprekslogica van Samenspraak draait om aandacht, rust en menselijke maat.
 De prompts zijn niet bedoeld om taal te sturen, maar om ruimte te bieden aan verschil.  
 Door te werken met vaste, gemeenschappelijk ontwikkelde teksten  
 blijft Samenspraak transparant, uitlegbaar en zorgzaam.  
-De LLM brengt taal in beweging binnen deze kaders,  
-maar de betekenis ontstaat in het gesprek tussen mensen.
+
+De kracht van taalmodellen wordt hier niet beperkt, maar gericht.  
+Samenspraak gebruikt LLM’s als middel om taal te verkennen,  
+niet om betekenis te bepalen.  
+Het model brengt taal in beweging binnen vaste kaders,  
+terwijl mensen zelf richting, interpretatie en verantwoordelijkheid behouden.
+
+Deze opzet is geen eindpunt, maar een vertrekpunt.  
+Naarmate taalmodellen zich verder ontwikkelen,  
+zal ook de rol die zij spelen in Samenspraak opnieuw onderzocht worden.
