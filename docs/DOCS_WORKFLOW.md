@@ -51,7 +51,7 @@ De UI produceert hetzelfde resultaat als de CLI-versie en helpt bij gezamenlijk 
 ## 3. Richtlijnen voor gebruik
 
 - Gebruik taalhulpmiddelen als ondersteuning, niet als vervanging van reflectie.  
-- Laat het hulpmiddel werken binnen de kaders van het Manifest en de Language and Tone Guide.  
+- Laat het hulpmiddel werken binnen de kaders van het Manifest en de LLM Prompt Style and Language Guide.  
 - Voeg geen aparte tooninstructies toe in prompts; de gids bepaalt al de gewenste houding.  
 - Controleer of de gegenereerde tekst past bij de waarden van Samenspraak: rustig, transparant en niet overtuigend.  
 - Noteer bij twijfel een observatie in een issue met het label `ethics-check`.
