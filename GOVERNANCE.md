@@ -1,5 +1,8 @@
 # Governance en besluitvorming
 
+> Dit document groeit mee met wat het project leert.  
+> De inhoud kan veranderen naarmate Samenspraak zich ontwikkelt.
+
 ## Waarom dit document bestaat
 
 *Samenspraak* is een open project dat wil bijdragen aan beter gesprek.  
