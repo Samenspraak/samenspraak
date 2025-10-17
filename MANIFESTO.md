@@ -1,5 +1,8 @@
 # Manifest voor Samenspraak (werktitel)
 
+> Dit manifest groeit mee met wat Samenspraak leert.  
+> Het beschrijft een richting, geen eindpunt.
+
 ## Waarom dit project bestaat
 
 We leven in een tijd waarin het publieke gesprek vaak vastloopt.  

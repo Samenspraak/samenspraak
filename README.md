@@ -1,5 +1,8 @@
 # Samenspraak (werktitel)
 
+> Dit document groeit mee met wat het project leert.  
+> De inhoud kan veranderen naarmate Samenspraak zich ontwikkelt.
+
 **Open framework voor reflectieve gesprekken met taalmodellen**  
 *Een experiment om te ontdekken hoe technologie gesprekken kan ondersteunen in plaats van overnemen.*
 
@@ -55,6 +58,23 @@ Zo kan technologie bijdragen aan gesprekken die rustiger, eerlijker en menselijk
 Wie later met Samenspraak werkt, gebruikt geen slim systeem,  
 maar een hulpmiddel dat helpt om beter te horen wat er gezegd wordt.  
 Iedereen kan dit onderzoeken, proberen en verbeteren, stap voor stap, samen.
+
+---
+
+## Waarom nu
+
+Gesprekken met taalmodellen worden alledaags.  
+Ze versnellen, sturen en vullen aan.  
+Daardoor verdwijnt soms de ruimte om echt te luisteren.
+
+Samenspraak is begonnen vanuit de wens om die ruimte terug te brengen.  
+Het onderzoekt hoe technologie kan helpen om aandachtiger te spreken  
+en om beter te begrijpen wat taal met ons doet.
+
+De nadruk ligt niet op snelheid of schaal,  
+maar op toon, betekenis en gesprek.  
+Wat hier beschreven staat, is een beginpunt.  
+Het groeit mee met wat er onderweg wordt geleerd.
 
 ---
 
