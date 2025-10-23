@@ -54,13 +54,55 @@ Door bij te dragen ga je akkoord met deze voorwaarden.
 Gebruik GitHub-issues met passende labels:
 
 | Label | Doel |
-|--------|------|
-| `prompt-test` | Test van een prompt of observatie. |
-| `docs` | Voorstellen of verbeteringen aan documentatie. |
-| `backend` | Vragen of voorstellen over de backend (Python / FastAPI / LangChain). |
-| `frontend` | Ideeën over de interface of gebruikerservaring. |
-| `ethics` | Discussies over waarden, toon of maatschappelijke impact. |
+|------|------|
+| `bug` | Iets werkt niet zoals bedoeld. |
+| `docs` | Verbetering of toevoeging aan documentatie. |
+| `duplicate` | Dit issue of pull request bestaat al. |
+| `enhancement` | Nieuwe functie of uitbreidingsvoorstel. |
+| `ethics` | Gesprek over waarden, toon of maatschappelijke impact. |
+| `good-first-issue` | Kleine, duidelijk afgebakende taak geschikt voor nieuwe bijdragers. |
 | `help-wanted` | Verzoek om hulp of samenwerking. |
+| `invalid` | Dit issue lijkt niet juist of is niet relevant. |
+| `prompt-test` | Test van een prompt of observatie. |
+| `question` | Er is aanvullende informatie of verduidelijking nodig. |
+| `wontfix` | Dit issue wordt niet verder opgepakt. |
 
 Bijdragen worden zorgvuldig besproken en beoordeeld.  
 Iedereen is welkom om vragen te stellen of mee te denken.
+
+---
+
+## 6. Issue-labeling
+
+Het labelen van issues helpt om zichtbaar te maken waar anderen kunnen aanhaken.  
+Gebruik labels zorgvuldig en in lijn met de bedoeling van het project: rustig, helder en uitnodigend.
+
+### Wanneer je een label toevoegt
+
+Gebruik de tabel in [§ 5 Ondersteuning en overleg](#5-ondersteuning-en-overleg)  
+om te zien welke labels beschikbaar zijn en wat hun doel is.
+
+- **`good-first-issue`**  
+  Gebruik dit label als een taak klein, duidelijk afgebakend en geschikt is voor nieuwe bijdragers.  
+  Bijvoorbeeld: een beperkte tekstaanpassing, kleine codewijziging of toevoeging van een voorbeeld.
+
+- **`help-wanted`**  
+  Gebruik dit label als er extra hulp of samenwerking nodig is.  
+  Bijvoorbeeld: inhoudelijke review, technische toets of meedenken over richting.
+
+Een issue kan beide labels dragen, maar alleen wanneer dat echt past.  
+Kies bewust: het doel is om mensen gericht uit te nodigen, niet om aandacht te trekken.
+
+### Hoe je een label toevoegt
+
+1. Open het issue op GitHub.  
+2. Klik rechts in de zijbalk op **Labels**.  
+3. Vink het gewenste label aan en sluit het menu.  
+
+Controleer of de beschrijving van het issue duidelijk maakt *waarom* het label is toegevoegd  
+en of dit aansluit bij de doelen uit sectie 5.
+
+### Overzicht van labels
+
+De volledige lijst van beschikbare labels staat in de repository:  
+👉 [Samenspraak – Labels](https://github.com/Samenspraak/samenspraak/labels)
