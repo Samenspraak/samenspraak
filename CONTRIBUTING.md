@@ -1,7 +1,16 @@
 # Bijdragen aan Samenspraak
 
 Samenspraak is een open project dat samenwerking en zorgvuldigheid centraal stelt.  
-Iedereen kan bijdragen — met of zonder technische kennis.
+Iedereen kan bijdragen, met of zonder technische kennis.
+
+Om een bijdrage te plaatsen of aan te passen is een **GitHub-account** nodig.  
+Dat account kan worden aangemaakt via [github.com/join](https://github.com/join).  
+Na aanmelding kan op deze pagina een bijdrage worden gestart via  
+**Issues → New issue → Prompttest**.  
+
+Wie voor het eerst met GitHub werkt, kan het label `help-wanted` toevoegen aan het issue.  
+Dat label geeft aan dat meelezen of begeleiding welkom is.  
+Het wordt gezien als uitnodiging tot samenwerking, niet als teken van onervarenheid.
 
 ---
 
@@ -27,6 +36,12 @@ Elke route heeft een eigen tempo en vraagt een ander soort kennis.
 
 Zie [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md)  
 voor praktische instructies per route.
+
+De meeste bijdragen kunnen worden gedaan zonder technische kennis.  
+Een GitHub-account is voldoende om een prompttest of observatie te delen.  
+Het formulier *Prompttest* in de issues-sectie begeleidt dit proces stap voor stap.  
+Een bijdrage kan in gewone taal worden beschreven.  
+Er is geen vaste vorm en geen goed of fout.  
 
 ---
 
@@ -69,6 +84,11 @@ Gebruik GitHub-issues met passende labels:
 
 Bijdragen worden zorgvuldig besproken en beoordeeld.  
 Iedereen is welkom om vragen te stellen of mee te denken.
+
+Wie net begint, kan het label `help-wanted` gebruiken  
+om aan te geven dat ondersteuning gewenst is.  
+Het label hoort bij de manier van samenwerken binnen Samenspraak:  
+rustig, uitnodigend en zonder oordeel.
 
 ---
 
