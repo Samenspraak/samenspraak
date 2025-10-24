@@ -7,7 +7,7 @@ body:
       value: |
         Deze review helpt om na te gaan of de taal en toon in de repository
         nog in lijn zijn met het [Manifesto](../../MANIFESTO.md)
-        en de [LLM Language and Tone Guide](../../LLM_LANGUAGE_AND_TONE_GUIDE.md).
+        en de [LLM Prompt Style and Language Guide](../../LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).
 
         Het doel is niet om fouten aan te wijzen, maar om stil te staan bij
         hoe zorgvuldig en helder we met taal omgaan.
