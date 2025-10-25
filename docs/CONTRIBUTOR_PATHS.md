@@ -1,15 +1,30 @@
-# Bijdragen aan Samenspraak – Routes en richtlijnen
+# Bijdragen aan Samenspraak
 
-Samenspraak verwelkomt bijdragen van zowel technische als niet-technische deelnemers.  
-De bijdragen zijn georganiseerd in vier routes, die samen de verschillende fasen van het project ondersteunen.
+Samenspraak groeit door samenwerking tussen mensen met verschillende ervaring.  
+Iedereen kan bijdragen.  
+Door te schrijven, te onderzoeken, te ontwerpen of te bouwen.  
+
+Het project draait om taal en aandacht.  
+Techniek ondersteunt dat, maar bepaalt het niet.  
+De waarde ligt in hoe mensen samen leren spreken en luisteren met zorg.
 
 ---
 
-## 1. Route A – Prompttesten
+## 1. Overzicht van routes
 
-Prompts vormen de kern van Samenspraak.  
-Er zijn twee manieren om ze te testen: via een formulier (voor iedereen)  
-of via code (voor ontwikkelaars).
+Iedere route heeft een eigen vorm van bijdrage.  
+Ze zijn gelijkwaardig in waarde en doel.  
+
+| Route | Doel | Werkwijze |
+|--------|------|-----------|
+| **A. Prompttesten** | Onderzoeken hoe het model reageert op vaste prompts | Via formulier of JSON-bestand |
+| **B. Documentatie en onderzoek** | Verbeteren van toon, helderheid en neutraliteit | Via issue of pull request |
+| **C. Backend (Python)** | Bouwen aan de technische basis | Via code en backend-issues |
+| **D. Frontend en ontwerp** | Werken aan toegankelijkheid en ervaring | Via ontwerpvoorstellen of schetsen |
+| **E. Gesprek en reflectie** | Observeren hoe taal, toon en verschil zich tonen in echte gesprekken | Via observaties of reflecties |
+
+Elke route kan afzonderlijk of samen met anderen worden gevolgd.
+
 
 ---
 
@@ -129,7 +144,7 @@ backend/
 
 ---
 
-## 4. Route D – Frontend & UX
+## 4. Route D – Frontend en ontwerp
 
 Deze route richt zich op toekomstige fases (3–4),  
 wanneer een interface of prototype wordt ontwikkeld.
@@ -145,28 +160,42 @@ wanneer een interface of prototype wordt ontwikkeld.
 
 ---
 
-## 5. Samenvatting
+## 6. Route E – Gesprek en reflectie
 
-| Route | Voor wie | Werkwijze |
-|--------|-----------|-----------|
-| **A. Prompttesten (non-tech / tech)** | Iedereen / ontwikkelaars | Formulier of JSON in `/experiments/`. |
-| **B. Documentatie & onderzoek** | Inhoudelijk | Issue of PR met label `docs` of `ethics`. |
-| **C. Backend (Python)** | Ontwikkelaars | Code in `backend/`, met review via `backend`-issue. |
-| **D. Frontend & UX** | Ontwerpers / tech | Ideeën of concepten delen via `frontend`-issue. |
+Iedereen heeft ervaring met taal, verschil en mening.  
+Deze route biedt ruimte om die ervaring te onderzoeken.
+
+### Doel
+- Observeren hoe gesprekken verlopen.  
+- Opmerken wat toon of begrip beïnvloedt.  
+- Delen van reflecties die helpen Samenspraak menselijk te houden.
+
+### Werkwijze
+1. Beschrijf kort een gesprek of test die je observeerde.  
+2. Noteer wat opviel in houding, toon of verloop.  
+3. Deel dit via een issue met label `reflection` of `ethics`.
+
+Technische kennis is niet nodig.  
+Aandacht en rust wel.
 
 ---
 
-## 6. Overwegingen
+## 7. Gelijkwaardigheid van routes
 
-- Alle routes zijn gelijkwaardig in waarde.  
-- Technische bijdragen blijven ondersteunend aan de reflectieve bedoeling.  
-- Documentatie en gesprekken over waarden zijn net zo belangrijk als code.  
-- De AGPLv3-licentie geldt voor alle bijdragen.
+Alle routes dragen bij aan hetzelfde doel.  
+Techniek ondersteunt, maar bepaalt niet de richting.  
+Reflectie, taal en ontwerp zijn even belangrijk als code.  
+Iedere bijdrage helpt Samenspraak helder en menselijk te houden.
 
 ---
 
-## 7. Slot
+## 8. Slot
 
-Samenspraak groeit door samenwerking tussen verschillende werelden:  
-taal, technologie, ontwerp, ethiek en onderzoek.  
-Iedere bijdrage helpt om gesprekken menselijker te maken — stap voor stap.
+Samenspraak is geen project voor specialisten.  
+Het is een oefening in aandacht.  
+
+Wie wil bijdragen, brengt altijd iets mee.  
+Ervaring met woorden, met luisteren of met bouwen.  
+
+Elke route begint bij dezelfde houding.  
+Open, rustig en zonder haast.

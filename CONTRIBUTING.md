@@ -1,7 +1,9 @@
 # Bijdragen aan Samenspraak
 
 Samenspraak is een open project dat samenwerking en zorgvuldigheid centraal stelt.  
-Iedereen kan bijdragen, met of zonder technische kennis.
+Iedereen kan bijdragen.  
+Door taal te verkennen, onderzoek te doen of functies te ontwikkelen.  
+Alle bijdragen ondersteunen hetzelfde doel: zorgvuldiger gesprek.
 
 Om een bijdrage te plaatsen of aan te passen is een **GitHub-account** nodig.  
 Dat account kan worden aangemaakt via [github.com/join](https://github.com/join).  
@@ -29,10 +31,12 @@ Elke route heeft een eigen tempo en vraagt een ander soort kennis.
 
 | Route | Voor wie | Beschrijving |
 |--------|-----------|--------------|
-| **A. Prompttesten (Issues & Code)** | Iedereen / ontwikkelaars | Test prompts via het formulier of als JSON in `/experiments/`. |
-| **B. Documentatie & onderzoek** | Inhoudelijke bijdragers | Werk mee aan toon, logica, ethiek of onderzoek naar bias en veiligheid. |
-| **C. Backend (Python)** | Ontwikkelaars | Bouw aan de API, CLI of logica in `backend/samenspraak` met FastAPI en LangChain. |
-| **D. Frontend & UX** | Ontwerpers / technici | Denk mee over de toekomstige interface en gebruikservaring. |
+| **A. Prompttesten** | Iedereen | Test prompts via het formulier of als JSON in `/experiments/`. |
+| **B. Documentatie en onderzoek** | Mensen met taal- of onderzoeksinteresse | Werk mee aan toon, logica, ethiek of biasonderzoek. |
+| **C. Backend (Python)** | Codebijdragers | Bouw aan functies en logica in `backend/samenspraak`. |
+| **D. Frontend en ontwerp** | Ontwerp en interactie | Denk mee over toegankelijkheid en ervaring. |
+| **E. Gesprek en reflectie** | Mensen met ervaring in taal, gesprek of samenleving | Observeer hoe gesprekken verlopen en deel wat opvalt. |
+
 
 Zie [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md)  
 voor praktische instructies per route.
@@ -53,6 +57,10 @@ Bijdragen volgen de waarden uit het [Manifesto](MANIFESTO.md):
 - Transparantie over keuzes.  
 - Zorgvuldigheid in toon en formulering.  
 - Openheid voor verschil van perspectief.
+
+Iedere bijdrage, technisch of reflectief, draagt bij aan dezelfde bedoeling:  
+gesprekken die rustiger, opener en menselijker zijn.
+
 
 ---
 
