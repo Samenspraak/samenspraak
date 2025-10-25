@@ -3,8 +3,10 @@
 ## Waarom een roadmap
 
 Samenspraak is een open experiment.  
-We beginnen klein — met prompts en gesprekken die iedereen zelf kan testen —  
-en bouwen stap voor stap verder richting een stabiel platform.  
+We beginnen klein, met prompts en gesprekken die iedereen zelf kan testen, en bouwen stap voor stap verder richting een stabiel platform.
+
+Naast technische ontwikkeling wordt nadruk gelegd op taal, toon en maatschappelijke toepassing.  
+Reflectieve en menselijke bijdragen zijn gelijkwaardig aan code of ontwerp.
 
 Deze roadmap laat zien welke stadia we kunnen doorlopen.  
 Niet als harde planning, maar als richting.  
@@ -63,7 +65,7 @@ We groeien in tempo en vorm zodra er meer mensen meedoen.
 ## Fase 5 — Toepassing, onderzoek en borging
 **Doel:** duurzaamheid en maatschappelijke inbedding.
 
-- Samenwerking met onderzoekers, mediators en maatschappelijke organisaties  
+- Samenwerking met onderzoekers, ontwerpers, gespreksbegeleiders en maatschappelijke initiatieven
 - Evaluatie van gebruik, veiligheid en impact  
 - Jaarlijkse herijking van manifest en governance  
 - Mogelijke spin-offs of toepassingen in onderwijs, beleid of buurtinitiatieven

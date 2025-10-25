@@ -20,16 +20,16 @@ Dit overzicht helpt om te zien *voor wie* en *met wie* we werken.
 
 ## 2. Bijdragers
 
-- **Taal- en mediatie-experts:** helpen bij toon, neutraliteit en formulering.  
-- **Ethici en onderzoekers:** bewaken waarden, bias en maatschappelijke impact.  
-- **Ontwikkelaars:** vertalen gesprekslogica naar veilige technologie.  
-- **Ontwerpers:** werken aan toegankelijkheid en gebruikservaring.
+- **Taal- en gesprekskundigen:** letten op toon, neutraliteit en formulering.  
+- **Onderzoekers en ethici:** bewaken waarden, bias en maatschappelijke context.  
+- **Ontwerpers en bouwers:** zorgen voor toegankelijkheid, structuur en veiligheid.  
+- **Iedereen met ervaringskennis:** brengt inzicht in hoe taal verschil maakt in praktijk.
 
 Iedereen kan bijdragen, ook zonder technische kennis.  
 Niet-technische testers kunnen hun bevindingen delen via **GitHub Issues**  
 met behulp van het formulier *Prompttest*.
 
-Bijdragen blijven in lijn met de waarden uit het [Manifesto](MANIFESTO.md).
+Bijdragen volgen de waarden uit het [Manifesto](MANIFESTO.md) en erkennen dat elk perspectief iets toevoegt.
 
 ---
 

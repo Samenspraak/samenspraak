@@ -82,7 +82,10 @@ zoals beschreven in de [`ROADMAP.md`](ROADMAP.md).
 
 ## Meedoen
 
-Iedereen kan bijdragen, met of zonder technische kennis.  
+Iedereen kan bijdragen.  
+Sommigen schrijven of onderzoeken.  
+Anderen ontwerpen of bouwen.  
+Elke vorm van aandacht helpt Samenspraak groeien.  
 
 ### Mogelijke bijdragen
 - Prompttesten en observaties via het formulier *Prompttest* in GitHub Issues.  
