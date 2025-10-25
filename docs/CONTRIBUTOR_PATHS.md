@@ -28,6 +28,13 @@ Elke route kan afzonderlijk of samen met anderen worden gevolgd.
 
 ---
 
+## 2. Route A – Prompttesten
+Prompts vormen de kern van Samenspraak.  
+Prompts vormen de kern van Samenspraak.  
+Ze worden getest om te zien hoe toon en betekenis behouden blijven.
+
+---
+
 ### A₁. Prompttesten (non-tech)
 
 Deze route is bedoeld voor iedereen die wil experimenteren met Samenspraak-prompts.  
@@ -96,7 +103,7 @@ het leren begrijpen hoe taalmodellen reflectieve gesprekken kunnen ondersteunen.
 
 ---
 
-## 2. Route B – Documentatie & onderzoek
+## 3. Route B – Documentatie & onderzoek
 
 Voor inhoudelijke of redactionele bijdragen.
 
@@ -114,7 +121,7 @@ Er is geen codekennis nodig — wel zorgvuldigheid en transparantie.
 
 ---
 
-## 3. Route C – Backend (Python)
+## 4. Route C – Backend (Python)
 
 Voor ontwikkelaars die willen bijdragen aan de technische basis van Samenspraak.
 
@@ -144,7 +151,7 @@ backend/
 
 ---
 
-## 4. Route D – Frontend en ontwerp
+## 5. Route D – Frontend en ontwerp
 
 Deze route richt zich op toekomstige fases (3–4),  
 wanneer een interface of prototype wordt ontwikkeld.
