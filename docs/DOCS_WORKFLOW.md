@@ -5,8 +5,7 @@
 Binnen **Samenspraak** worden taalhulpmiddelen gebruikt om te helpen bij het schrijven van documentatie, prompts en toelichtingen.  
 Het doel is niet om teksten automatisch te laten produceren, maar om samen met het hulpmiddel aandachtiger te schrijven.
 
-Om te zorgen dat ook automatisch gegenereerde tekst dezelfde toon en waarden behoudt als de rest van het project,  
-worden altijd twee documenten als basis gebruikt:
+Om te zorgen dat ook automatisch gegenereerde tekst dezelfde toon en waarden behoudt als de rest van het project, worden altijd twee documenten als basis gebruikt:
 
 1. [`MANIFESTO.md`](../MANIFESTO.md) – de maatschappelijke en morele grondslag.  
 2. [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](../LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md) – de richtlijnen voor taal en toon.
@@ -29,8 +28,7 @@ Gebruik de CLI-versie als je werkt vanuit een lokale omgeving.
 repomix --include "*.md" --output repomix-output-tree-main.md
 ~~~
 
-Het bestand `repomix-output-tree-main.md` kan worden toegevoegd aan een ChatGPT project of conversatie
-voor gebruik bij documentatie, promptontwikkeling of analyse.
+Het bestand `repomix-output-tree-main.md` kan worden toegevoegd aan een ChatGPT project of conversatie voor gebruik bij documentatie, promptontwikkeling of analyse.
 
 ### 2.2 Via de Repomix-UI
 
@@ -86,5 +84,4 @@ Wie werkt aan documentatie of aan tests van prompts:
 
 Deze werkwijze helpt om menselijk en automatisch schrijven met elkaar te verbinden.  
 Niet om snelheid te vergroten, maar om aandacht te bewaren.  
-Zo blijft Samenspraak herkenbaar in elke vorm van taal,  
-ongeacht wie of wat de tekst heeft geschreven.
+Zo blijft Samenspraak herkenbaar in elke vorm van taal, ongeacht wie of wat de tekst heeft geschreven.

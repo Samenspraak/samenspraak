@@ -26,8 +26,7 @@ Dit overzicht helpt om te zien *voor wie* en *met wie* we werken.
 - **Iedereen met ervaringskennis:** brengt inzicht in hoe taal verschil maakt in praktijk.
 
 Iedereen kan bijdragen, ook zonder technische kennis.  
-Niet-technische testers kunnen hun bevindingen delen via **GitHub Issues**  
-met behulp van het formulier *Prompttest*.
+Niet-technische testers kunnen hun bevindingen delen via **GitHub Issues** met behulp van het formulier *Prompttest*.
 
 Bijdragen volgen de waarden uit het [Manifesto](MANIFESTO.md) en erkennen dat elk perspectief iets toevoegt.
 
@@ -40,8 +39,7 @@ Mogelijke toekomstige betrokkenen:
 - Organisaties die werken aan maatschappelijke dialoog of conflictbemiddeling.  
 - Publieke instellingen die experimenteren met AI-transparantie.
 
-Samenwerkingen worden **altijd openbaar gemaakt** in `SUPPORT.md` of `PARTNERS.md`,  
-zoals beschreven in [GOVERNANCE.md](GOVERNANCE.md).
+Samenwerkingen worden **altijd openbaar gemaakt** in `SUPPORT.md` of `PARTNERS.md`, zoals beschreven in [GOVERNANCE.md](GOVERNANCE.md).
 
 ---
 
@@ -69,5 +67,4 @@ Transparantie is belangrijker dan snelheid.
 
 ---
 
-Samenspraak blijft klein van toon, maar breed van bedoeling:  
-een plek waar mensen uit verschillende werelden samen werken aan taal die verbindt.
+Samenspraak blijft klein van toon, maar breed van bedoeling: een plek waar mensen uit verschillende werelden samen werken aan taal die verbindt.

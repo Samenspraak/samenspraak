@@ -58,16 +58,14 @@ Bijdragen volgen de waarden uit het [Manifesto](MANIFESTO.md):
 - Zorgvuldigheid in toon en formulering.  
 - Openheid voor verschil van perspectief.
 
-Iedere bijdrage, technisch of reflectief, draagt bij aan dezelfde bedoeling:  
-gesprekken die rustiger, opener en menselijker zijn.
+Iedere bijdrage, technisch of reflectief, draagt bij aan dezelfde bedoeling: gesprekken die rustiger, opener en menselijker zijn.
 
 
 ---
 
 ## 4. Licentie
 
-Alle bijdragen vallen onder de [GNU AGPLv3-licentie](LICENSE)  
-en de toelichting in [LICENSE_POLICY.md](LICENSE_POLICY.md).  
+Alle bijdragen vallen onder de [GNU AGPLv3-licentie](LICENSE) en de toelichting in [LICENSE_POLICY.md](LICENSE_POLICY.md).  
 Door bij te dragen ga je akkoord met deze voorwaarden.
 
 ---
@@ -93,10 +91,8 @@ Gebruik GitHub-issues met passende labels:
 Bijdragen worden zorgvuldig besproken en beoordeeld.  
 Iedereen is welkom om vragen te stellen of mee te denken.
 
-Wie net begint, kan het label `help-wanted` gebruiken  
-om aan te geven dat ondersteuning gewenst is.  
-Het label hoort bij de manier van samenwerken binnen Samenspraak:  
-rustig, uitnodigend en zonder oordeel.
+Wie net begint, kan het label `help-wanted` gebruiken om aan te geven dat ondersteuning gewenst is.  
+Het label hoort bij de manier van samenwerken binnen Samenspraak: rustig, uitnodigend en zonder oordeel.
 
 ---
 
@@ -107,8 +103,7 @@ Gebruik labels zorgvuldig en in lijn met de bedoeling van het project: rustig, h
 
 ### Wanneer je een label toevoegt
 
-Gebruik de tabel in [§ 5 Ondersteuning en overleg](#5-ondersteuning-en-overleg)  
-om te zien welke labels beschikbaar zijn en wat hun doel is.
+Gebruik de tabel in [§ 5 Ondersteuning en overleg](#5-ondersteuning-en-overleg) om te zien welke labels beschikbaar zijn en wat hun doel is.
 
 - **`good-first-issue`**  
   Gebruik dit label als een taak klein, duidelijk afgebakend en geschikt is voor nieuwe bijdragers.  
@@ -127,10 +122,8 @@ Kies bewust: het doel is om mensen gericht uit te nodigen, niet om aandacht te t
 2. Klik rechts in de zijbalk op **Labels**.  
 3. Vink het gewenste label aan en sluit het menu.  
 
-Controleer of de beschrijving van het issue duidelijk maakt *waarom* het label is toegevoegd  
-en of dit aansluit bij de doelen uit sectie 5.
+Controleer of de beschrijving van het issue duidelijk maakt *waarom* het label is toegevoegd en of dit aansluit bij de doelen uit sectie 5.
 
 ### Overzicht van labels
 
-De volledige lijst van beschikbare labels staat in de repository:  
-👉 [Samenspraak – Labels](https://github.com/Samenspraak/samenspraak/labels)
+De volledige lijst van beschikbare labels staat in de repository: [Samenspraak – Labels](https://github.com/Samenspraak/samenspraak/labels)

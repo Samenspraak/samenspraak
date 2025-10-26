@@ -11,8 +11,7 @@ en verliezen daarbij uit het oog dat we uiteindelijk allemaal iets vergelijkbaar
 een samenleving die leefbaar, eerlijk en zorgzaam is.
 
 Toch voelt het soms alsof we in verschillende werelden leven.  
-Niet omdat onze verschillen te groot zijn, maar omdat we de taal en de ruimte missen  
-om ze te onderzoeken zonder elkaar meteen kwijt te raken.
+Niet omdat onze verschillen te groot zijn, maar omdat we de taal en de ruimte missen om ze te onderzoeken zonder elkaar meteen kwijt te raken.
 
 In veel gesprekken, vooral wanneer iets ertoe doet, wordt overtuigen al snel belangrijker dan begrijpen.  
 We proberen scherp te formuleren, onze redenering te versterken of bondgenoten te vinden.  
@@ -112,11 +111,9 @@ Omdat het platform werkt met gevoelige onderwerpen, staan privacy, veiligheid en
 Waar mogelijk blijven gegevens lokaal. Wanneer dat niet kan, worden ze geanonimiseerd verwerkt.  
 Er is speciale aandacht voor het voorkomen van bias, manipulatie en promptinjectie.  
 
-Het project wordt open source ontwikkeld, zodat iedereen kan zien hoe het werkt  
-en zodat bijdragen van buitenaf het systeem beter en rechtvaardiger maken.  
+Het project wordt open source ontwikkeld, zodat iedereen kan zien hoe het werkt en zodat bijdragen van buitenaf het systeem beter en rechtvaardiger maken.  
 
-We nodigen mensen met ervaring in mediatie, ethiek, privacy, veiligheid, taal en data uit  
-om mee te bouwen en te zorgen dat Samenspraak betrouwbaar en mensgericht blijft.  
+We nodigen mensen met ervaring in mediatie, ethiek, privacy, veiligheid, taal en data uit om mee te bouwen en te zorgen dat Samenspraak betrouwbaar en mensgericht blijft.  
 Niet om vervangen te worden, maar om hun kennis te verankeren in de basis van het project.
 
 ---
@@ -126,8 +123,7 @@ Niet om vervangen te worden, maar om hun kennis te verankeren in de basis van he
 Samenspraak is niet dé oplossing, maar een stap die kan helpen  
 om dichter bij elkaar te komen in een tijd waarin veel uit elkaar lijkt te vallen.  
 
-Het is een experiment én een uitnodiging:  
-voor iedereen die gelooft dat gesprekken anders kunnen.  
+Het is een experiment én een uitnodiging: voor iedereen die gelooft dat gesprekken anders kunnen.  
 Voor mensen die niet wachten tot ‘het systeem’ iets verandert,  
 maar zelf willen bijdragen aan gesprekken die verschil dragen in plaats van vergroten.
 

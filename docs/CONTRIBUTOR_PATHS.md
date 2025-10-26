@@ -153,8 +153,7 @@ backend/
 
 ## 5. Route D – Frontend en ontwerp
 
-Deze route richt zich op toekomstige fases (3–4),  
-wanneer een interface of prototype wordt ontwikkeld.
+Deze route richt zich op toekomstige fases (3–4), wanneer een interface of prototype wordt ontwikkeld.
 
 ### Mogelijke bijdragen
 - Ideeën of schetsen voor een eenvoudige, toegankelijke webinterface.  

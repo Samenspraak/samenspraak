@@ -8,33 +8,26 @@
 ## Open framework voor reflectieve gesprekken met taalmodellen
 
 Samenspraak is een open experiment.  
-Het onderzoekt hoe technologie gesprekken kan ondersteunen  
-in plaats van overnemen.  
+Het onderzoekt hoe technologie gesprekken kan ondersteunen in plaats van overnemen.  
 
 Het project richt zich op toon, betekenis en aandacht.  
-Niet om gelijk te krijgen, maar om beter te begrijpen  
-wat taal met ons doet.
+Niet om gelijk te krijgen, maar om beter te begrijpen wat taal met ons doet.
 
 ---
 
 ## Begin bij het Manifest
 
 Lees eerst het [`MANIFESTO.md`](MANIFESTO.md).  
-Het beschrijft waarom Samenspraak bestaat  
-en welke waarden richting geven aan het project.  
+Het beschrijft waarom Samenspraak bestaat en welke waarden richting geven aan het project.  
 
-De andere documenten laten zien  
-hoe dat gedachtegoed wordt vertaald  
-naar ontwerp, taal en samenwerking.
+De andere documenten laten zien hoe dat gedachtegoed wordt vertaald naar ontwerp, taal en samenwerking.
 
 ---
 
 ## Oriëntatie
 
-Samenspraak onderzoekt hoe taalmodellen kunnen helpen  
-om gesprekken te vertragen en te verdiepen.  
-Niet door antwoorden te geven,  
-maar door ruimte te maken voor verschil en nuance.  
+Samenspraak onderzoekt hoe taalmodellen kunnen helpen om gesprekken te vertragen en te verdiepen.  
+Niet door antwoorden te geven, maar door ruimte te maken voor verschil en nuance.  
 
 De documenten hieronder helpen om te verkennen, begrijpen en bijdragen.
 
@@ -57,11 +50,9 @@ Ze versnellen, sturen en vullen aan.
 Daardoor verdwijnt soms de ruimte om echt te luisteren.  
 
 Samenspraak is begonnen vanuit de wens om die ruimte terug te brengen.  
-Het onderzoekt hoe technologie kan helpen  
-om aandachtiger te spreken en te luisteren.  
+Het onderzoekt hoe technologie kan helpen om aandachtiger te spreken en te luisteren.  
 
-De nadruk ligt niet op schaal of snelheid,  
-maar op rust, betekenis en gesprek.  
+De nadruk ligt niet op schaal of snelheid, maar op rust, betekenis en gesprek.  
 Wat hier beschreven staat, is een beginpunt.  
 Het groeit mee met wat er onderweg wordt geleerd.
 
@@ -104,28 +95,22 @@ voor uitleg per route.
 
 Alle teksten in deze repository volgen de richtlijnen uit  
 [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).  
-Samen met het Manifest bepaalt dit bestand  
-hoe Samenspraak klinkt en schrijft.
+Samen met het Manifest bepaalt dit bestand hoe Samenspraak klinkt en schrijft.
 
-Wie hulpmiddelen gebruikt zoals ChatGPT of Repomix,  
-neemt deze bestanden als vaste context  
-zodat toon en waarden consistent blijven.
+Wie hulpmiddelen gebruikt zoals ChatGPT of Repomix, neemt deze bestanden als vaste context zodat toon en waarden consistent blijven.
 
 ---
 
 ## Licentie
 
 Samenspraak is vrij beschikbaar onder de GNU Affero General Public License v3.0 (AGPLv3).  
-Zie [`LICENSE`](LICENSE) voor de volledige juridische tekst  
-en [`LICENSE_POLICY.md`](LICENSE_POLICY.md) voor een uitleg in gewone taal.
+Zie [`LICENSE`](LICENSE) voor de volledige juridische tekst en [`LICENSE_POLICY.md`](LICENSE_POLICY.md) voor een uitleg in gewone taal.
 
 ---
 
 ## Slot
 
 Samenspraak groeit stap voor stap.  
-Iedere bijdrage, technisch of reflectief,  
-helpt om te begrijpen hoe taal technologie menselijk kan houden.  
+Iedere bijdrage, technisch of reflectief, helpt om te begrijpen hoe taal technologie menselijk kan houden.  
 
-De uitnodiging blijft dezelfde:  
-lees, onderzoek, ervaar en deel wat je ontdekt.
+De uitnodiging blijft dezelfde: lees, onderzoek, ervaar en deel wat je ontdekt.

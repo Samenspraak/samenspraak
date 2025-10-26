@@ -1,34 +1,26 @@
 # Prompts en gesprekslogica in Samenspraak
 
-Dit document beschrijft de kern van Samenspraak:  
-hoe vaste menselijke kaders en taalmodellen samen één reflectieve gespreksruimte vormen.
+Dit document beschrijft de kern van Samenspraak: hoe vaste menselijke kaders en taalmodellen samen één reflectieve gespreksruimte vormen.
 
-Samenspraak gebruikt taalmodellen niet om te overtuigen of te adviseren,  
-maar om gesprekken te ondersteunen die aandachtig en gelijkwaardig blijven.  
-Daarvoor werken we met vaste pre- en post-prompts  
-die de toon, volgorde en houding van een gesprek bepalen.
+Samenspraak gebruikt taalmodellen niet om te overtuigen of te adviseren, maar om gesprekken te ondersteunen die aandachtig en gelijkwaardig blijven.  
+Daarvoor werken we met vaste pre- en post-prompts die de toon, volgorde en houding van een gesprek bepalen.
 
 De hier beschreven aanpak is de huidige insteek.  
-We onderzoeken voortdurend hoe deze structuur zich verder kan ontwikkelen,  
-en of de inzet van LLM’s op termijn anders of ruimer kan worden vormgegeven  
-naarmate het begrip van hun werking groeit.
+We onderzoeken voortdurend hoe deze structuur zich verder kan ontwikkelen, en of de inzet van LLM’s op termijn anders of ruimer kan worden vormgegeven naarmate het begrip van hun werking groeit.
 
 ---
 
 ## 1. Waarom gesprekslogica
 
-Samenspraak gebruikt taalmodellen niet om te overtuigen of te adviseren,  
-maar om gesprekken te ondersteunen die aandachtig en gelijkwaardig blijven.  
-Daarvoor is een vaste gesprekslogica nodig:  
-een structuur die rust brengt in toon, rol en volgorde.
+Samenspraak gebruikt taalmodellen niet om te overtuigen of te adviseren, maar om gesprekken te ondersteunen die aandachtig en gelijkwaardig blijven.  
+Daarvoor is een vaste gesprekslogica nodig: een structuur die rust brengt in toon, rol en volgorde.
 
 Deze logica zorgt dat:
 - gesprekken herkenbaar en herhaalbaar zijn;  
 - deelnemers weten vanuit welk kader het model reageert;  
 - observaties betekenisvol kunnen worden vergeleken.
 
-Samenspraak is daarmee geen “slim” systeem,  
-maar een zorgvuldig vormgegeven omgeving voor taal.
+Samenspraak is daarmee geen “slim” systeem, maar een zorgvuldig vormgegeven omgeving voor taal.
 
 ---
 
@@ -48,8 +40,7 @@ Elke prompt in Samenspraak bestaat uit drie onderdelen.
 | **Input** | Brengt de woorden van de gebruiker(s) in. | Wat mensen zelf schrijven of zeggen. |
 | **Post-prompt** | Stuurt de vorm van de reactie. | Vaste tekst die bepaalt hoe het model reageert. |
 
-De pre- en post-prompts komen uit een gemeenschappelijke bibliotheek  
-en worden niet door een model gegenereerd of aangepast.  
+De pre- en post-prompts komen uit een gemeenschappelijke bibliotheek en worden niet door een model gegenereerd of aangepast.  
 Ze zijn zorgvuldig geformuleerd, getest en herbruikbaar in verschillende gesprekken.
 
 ---
@@ -60,8 +51,7 @@ Een gesprek binnen Samenspraak verloopt in vaste fasen.
 Elke fase heeft één of meer vaste pre- en post-prompts die passen bij de bedoeling van dat moment.  
 Deze prompts bepalen de toon en houding, maar niet de inhoud van het gesprek.
 
-De volgorde van fasen is logisch en wordt handmatig (of later systeemmatig) bepaald:  
-het gesprek gaat pas verder als dat passend is.  
+De volgorde van fasen is logisch en wordt handmatig (of later systeemmatig) bepaald: het gesprek gaat pas verder als dat passend is.  
 Samenspraak kiest of schrijft niets automatisch.
 
 | Fase | Doel |
@@ -85,8 +75,7 @@ De voorbeeldteksten zijn illustratief: ze tonen hoe toon en houding door de stru
 **Fase 1 – Oriëntatie**
 
 Oriëntatie is bedoeld om het gesprek op gang te brengen.  
-Er zijn meerdere vaste post-prompts beschikbaar,  
-afhankelijk van hoe open of concreet de eerste inbreng is.  
+Er zijn meerdere vaste post-prompts beschikbaar, afhankelijk van hoe open of concreet de eerste inbreng is.  
 De juiste variant kan handmatig of systeemmatig worden gekozen.
 
 ~~~text
@@ -98,8 +87,7 @@ Post-prompt: Stel één open vraag die helpt verkennen wat iemand wil inbrengen.
 **Reactie van de LLM:**  
 > “Wat zou je op dit moment willen delen of onderzoeken?”
 
-Wanneer iemand direct een concreet onderwerp noemt,  
-kan een andere vaste post-prompt uit dezelfde fase worden gebruikt:
+Wanneer iemand direct een concreet onderwerp noemt, kan een andere vaste post-prompt uit dezelfde fase worden gebruikt:
 
 ~~~text
 Post-prompt (variant): Stel één korte vraag die helpt even stil te staan bij wat iemand zojuist deelde.
@@ -113,8 +101,7 @@ Post-prompt (variant): Stel één korte vraag die helpt even stil te staan bij w
 **Fase 2 – Verkenning**
 
 Verkenning helpt mensen te onderzoeken wat voor hen van waarde is.  
-Ook hier bestaan meerdere vaste promptvarianten,  
-afhankelijk van hoe het gesprek zich ontwikkelt.
+Ook hier bestaan meerdere vaste promptvarianten, afhankelijk van hoe het gesprek zich ontwikkelt.
 
 ~~~text
 Pre-prompt:  Je bent een neutrale gespreksruimte. Je ondersteunt twee mensen in een open gesprek. De toon is rustig en onderzoekend.  
@@ -167,18 +154,15 @@ Post-prompt: Stel één korte vraag die uitnodigt om stil te staan bij wat dit g
 ---
 
 Deze vaste fasen vormen de kern van de gesprekslogica in Samenspraak.  
-De inhoud verandert door wat mensen zelf inbrengen,  
-maar de structuur en toon blijven gelijk.  
+De inhoud verandert door wat mensen zelf inbrengen, maar de structuur en toon blijven gelijk.  
 De LLM reageert alleen binnen de grenzen van de pre- en post-prompts.  
-In een latere fase kan worden onderzocht of het systeem  
-automatisch kan toetsen of een volgende fase passend is.
+In een latere fase kan worden onderzocht of het systeem automatisch kan toetsen of een volgende fase passend is.
 
 ---
 
 ## 4. Werken met vaste prompts
 
-Samenspraak werkt met een bibliotheek van **generieke pre- en post-prompts**,  
-ontwikkeld en beheerd door de community.  
+Samenspraak werkt met een bibliotheek van **generieke pre- en post-prompts**, ontwikkeld en beheerd door de community.  
 Iedere prompt is een bouwsteen die hergebruikt kan worden in verschillende gesprekken en fasen.
 
 ### 4.1 Rolverdeling tussen Samenspraak en LLM
@@ -188,10 +172,8 @@ Iedere prompt is een bouwsteen die hergebruikt kan worden in verschillende gespr
 | **Samenspraak** | Bepaalt de structuur, kiest vaste pre- en post-prompts, bewaakt de volgorde en fase. |
 | **LLM** | Genereert de tekstuele reactie binnen de grenzen van die prompts, zonder ze te wijzigen. |
 
-Samenspraak bepaalt dus *het kader*,  
-de LLM brengt er *taal in beweging* binnen dat kader.  
-Zo ontstaat een gesprek dat voorspelbaar, veilig en herhaalbaar is,  
-maar toch levend in toon.
+Samenspraak bepaalt dus *het kader*, de LLM brengt er *taal in beweging* binnen dat kader.  
+Zo ontstaat een gesprek dat voorspelbaar, veilig en herhaalbaar is, maar toch levend in toon.
 
 ### 4.2 Kenmerken van vaste prompts
 
@@ -210,16 +192,14 @@ maar toch levend in toon.
 | Verbinding | “Je ondersteunt twee mensen in een gesprek waarin verschil en overeenstemming mogen bestaan.” | “Stel één vraag die uitnodigt tot gedeeld begrip.” |
 | Afronding | “Je bent een neutrale gespreksruimte die helpt afronden zonder oordeel.” | “Stel één vraag die uitnodigt om stil te staan bij wat dit gesprek bracht.” |
 
-Samenspraak kan in de toekomst logische condities gebruiken  
-om te bepalen welke variant binnen een fase het meest passend is.  
+Samenspraak kan in de toekomst logische condities gebruiken om te bepalen welke variant binnen een fase het meest passend is.  
 Die keuze gebeurt niet via een LLM, maar via eenvoudige controlelogica of handmatige selectie.
 
 ---
 
 ## 5. Afstemming op toon en context
 
-De reacties van de LLM mogen zich aanpassen in **toon en taal**,  
-maar niet in inhoud of richting.  
+De reacties van de LLM mogen zich aanpassen in **toon en taal**, maar niet in inhoud of richting.  
 De prompts blijven vast; de reactie sluit taalkundig aan bij wat mensen schrijven of zeggen.
 
 ### Richtlijnen
@@ -285,15 +265,11 @@ Zo blijft elk gesprek herleidbaar tot de gebruikte prompts en observaties.
 
 De gesprekslogica van Samenspraak draait om aandacht, rust en menselijke maat.  
 De prompts zijn niet bedoeld om taal te sturen, maar om ruimte te bieden aan verschil.  
-Door te werken met vaste, gemeenschappelijk ontwikkelde teksten  
-blijft Samenspraak transparant, uitlegbaar en zorgzaam.  
+Door te werken met vaste, gemeenschappelijk ontwikkelde teksten blijft Samenspraak transparant, uitlegbaar en zorgzaam.  
 
 De kracht van taalmodellen wordt hier niet beperkt, maar gericht.  
-Samenspraak gebruikt LLM’s als middel om taal te verkennen,  
-niet om betekenis te bepalen.  
-Het model brengt taal in beweging binnen vaste kaders,  
-terwijl mensen zelf richting, interpretatie en verantwoordelijkheid behouden.
+Samenspraak gebruikt LLM’s als middel om taal te verkennen, niet om betekenis te bepalen.  
+Het model brengt taal in beweging binnen vaste kaders, terwijl mensen zelf richting, interpretatie en verantwoordelijkheid behouden.
 
 Deze opzet is geen eindpunt, maar een vertrekpunt.  
-Naarmate taalmodellen zich verder ontwikkelen,  
-zal ook de rol die zij spelen in Samenspraak opnieuw onderzocht worden.
+Naarmate taalmodellen zich verder ontwikkelen, zal ook de rol die zij spelen in Samenspraak opnieuw onderzocht worden.
