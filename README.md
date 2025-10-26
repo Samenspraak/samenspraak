@@ -90,8 +90,7 @@ Zie [`CONTRIBUTING.md`](CONTRIBUTING.md) en [`docs/CONTRIBUTOR_PATHS.md`](docs/C
 
 ## Werken met toon en taal
 
-Alle teksten in deze repository volgen de richtlijnen uit  
-[`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).  
+Alle teksten in deze repository volgen de richtlijnen uit [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).  
 Samen met het Manifest bepaalt dit bestand hoe Samenspraak klinkt en schrijft.
 
 Wie hulpmiddelen gebruikt zoals ChatGPT of Repomix, neemt deze bestanden als vaste context zodat toon en waarden consistent blijven.
