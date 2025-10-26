@@ -45,7 +45,19 @@ De meeste bijdragen kunnen worden gedaan zonder technische kennis.
 Een GitHub-account is voldoende om een prompttest of observatie te delen.  
 Het formulier *Prompttest* in de issues-sectie begeleidt dit proces stap voor stap.  
 Een bijdrage kan in gewone taal worden beschreven.  
-Er is geen vaste vorm en geen goed of fout.  
+Er is geen vaste vorm en geen goed of fout.
+
+### Over de backend
+
+Er is nog geen actieve backend.  
+De technische richting is wel bepaald: Samenspraak zal op termijn gebruikmaken van **Python**.  
+Die keuze is praktisch en sluit aan bij hoe taalmodellen nu vaak worden toegepast.  
+Ze houdt het project leesbaar en eenvoudig te onderhouden.
+
+De verdere uitwerking volgt later.  
+Voorlopig worden richting en opzet centraal bewaard, zodat de structuur één geheel blijft met toon en bedoeling.  
+
+Vragen of ideeën over de backend kunnen worden gedeeld via een issue met het label `backend`.
 
 ---
 
