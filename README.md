@@ -24,22 +24,25 @@ De andere documenten laten zien hoe dat gedachtegoed wordt vertaald naar ontwerp
 
 ---
 
-## Oriëntatie
+## Oriëntatie en leesroute
 
 Samenspraak onderzoekt hoe taalmodellen kunnen helpen om gesprekken te vertragen en te verdiepen.  
 Niet door antwoorden te geven, maar door ruimte te maken voor verschil en nuance.  
 
-De documenten hieronder helpen om te verkennen, begrijpen en bijdragen.
+De onderstaande documenten vormen samen het startpunt.  
+Ze zijn in een volgorde gezet die helpt om stap voor stap te begrijpen hoe Samenspraak werkt en hoe je kunt meedoen.
 
-| Onderwerp | Document | Doel |
-|------------|-----------|------|
-| **Werken met prompts** | [`docs/PROMPTS_GETTING_STARTED.md`](docs/PROMPTS_GETTING_STARTED.md) | Zelf oefenen met voorbeeldprompts. |
-| **Opbouw en logica** | [`docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md) | Begrijpen hoe Samenspraak gesprekken structureert. |
-| **Samen schrijven** | [`docs/DOCS_WORKFLOW.md`](docs/DOCS_WORKFLOW.md) | Toelichting op toon, stijl en gebruik van hulpmiddelen. |
-| **Routes voor bijdragen** | [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) | Uitleg over manieren om mee te doen. |
-| **Waarden en besluitvorming** | [`GOVERNANCE.md`](GOVERNANCE.md) | Over besluitvorming, rollen en transparantie. |
+| Stap | Onderwerp | Document | Doel |
+|------|------------|-----------|------|
+| 1 | **Richting en waarden** | [`MANIFESTO.md`](MANIFESTO.md) | Waarom Samenspraak bestaat en wat het wil ondersteunen. |
+| 2 | **Toon en taal** | [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md) | Hoe rust, neutraliteit en helderheid worden bewaakt. |
+| 3 | **Werken met prompts** | [`docs/PROMPTS_GETTING_STARTED.md`](docs/PROMPTS_GETTING_STARTED.md) | Zelf oefenen met voorbeeldprompts. |
+| 4 | **Opbouw en logica** | [`docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md) | Begrijpen hoe Samenspraak gesprekken structureert. |
+| 5 | **Samen schrijven** | [`docs/DOCS_WORKFLOW.md`](docs/DOCS_WORKFLOW.md) | Werkwijze bij schrijven met hulpmiddelen zoals ChatGPT of Repomix. |
+| 6 | **Routes voor bijdragen** | [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) | Uitleg over manieren om bij te dragen. |
+| 7 | **Waarden en besluitvorming** | [`GOVERNANCE.md`](GOVERNANCE.md) | Hoe keuzes worden genomen en waarden worden bewaakt. |
 
-Voor een volledig overzicht van alle documenten en hun functie, zie [index.md](index.md).
+Voor een volledig overzicht van alle bestanden, zie [`INDEX.md`](INDEX.md).
 
 ---
 
