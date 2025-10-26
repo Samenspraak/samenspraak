@@ -36,6 +36,12 @@ Iedereen kan een voorstel doen; het belangrijkste is dat het zichtbaar is en bea
 Belangrijke keuzes (zoals richting, samenwerking met andere partijen of technische architectuur) worden vastgelegd in een kort bestand: [`DECISIONS.md`](DECISIONS.md).  
 Daarin staat de datum, context, de gemaakte afweging en eventueel een verwijzing naar de discussie.
 
+### Over richting en groei
+
+In deze fase worden technische en structurele keuzes nog centraal genomen.  
+Dat helpt om samenhang te behouden totdat er meer actieve bijdragers zijn.  
+Wanneer de groep groeit, kan besluitvorming worden gedeeld.
+
 ---
 
 ## 3. Wanneer de groep groeit
