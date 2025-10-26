@@ -1,8 +1,7 @@
 # Pull Request – Samenspraak
 
 > Samenspraak groeit door zorgvuldige bijdragen.  
-> Gebruik dit formulier om kort te beschrijven wat er verandert  
-> en na te gaan of de wijziging past bij toon, waarden en helderheid.
+> Gebruik dit formulier om kort te beschrijven wat er verandert en na te gaan of de wijziging past bij toon, waarden en helderheid.
 
 ---
 

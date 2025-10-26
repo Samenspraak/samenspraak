@@ -3,8 +3,7 @@
 ## 1. De gekozen licentie
 
 Samenspraak valt onder de **GNU Affero General Public License v3.0 (AGPLv3)**.  
-Deze licentie hoort bij open source-projecten die willen dat hun werk vrij beschikbaar blijft,  
-ook wanneer het via een webdienst wordt gebruikt.
+Deze licentie hoort bij open source-projecten die willen dat hun werk vrij beschikbaar blijft, ook wanneer het via een webdienst wordt gebruikt.
 
 ---
 
@@ -22,8 +21,7 @@ De AGPLv3 houdt in dat:
 ## 3. Waarom deze keuze
 
 De waarden uit het [Manifesto](MANIFESTO.md) vragen om **openheid en wederkerigheid**.  
-We willen dat Samenspraak vrij gebruikt kan worden,  
-maar niet in gesloten of commerciële varianten die de openheid beperken.
+We willen dat Samenspraak vrij gebruikt kan worden, maar niet in gesloten of commerciële varianten die de openheid beperken.
 
 De AGPLv3:
 - beschermt tegen “afsluiten” van verbeteringen;  
@@ -60,5 +58,4 @@ We zoeken altijd de balans tussen openheid en zorgvuldigheid.
 
 ---
 
-Samenspraak blijft vrij toegankelijk,  
-zolang we samen zorgen dat vrij ook eerlijk blijft.
+Samenspraak blijft vrij toegankelijk, zolang we samen zorgen dat vrij ook eerlijk blijft.

@@ -1,13 +1,10 @@
 # LLM Prompt Style and Language Guide
 
 Deze gids beschrijft hoe taal en toon binnen **Samenspraak** worden vormgegeven.  
-Ze helpt om automatisch gegenereerde teksten, zoals documentatie, prompts of toelichtingen,  
-in lijn te houden met de waarden en houding van het project.
+Ze helpt om automatisch gegenereerde teksten, zoals documentatie, prompts of toelichtingen, in lijn te houden met de waarden en houding van het project.
 
-De richtlijnen zijn afgeleid van het [Manifesto](MANIFESTO.md)  
-en vormen samen met dat document de basis voor alle geschreven communicatie in Samenspraak.  
-De bedoeling is dat teksten, of ze nu door mensen of door hulpmiddelen worden geschreven,  
-dezelfde rust, helderheid en zorgvuldigheid behouden.
+De richtlijnen zijn afgeleid van het [Manifesto](MANIFESTO.md) en vormen samen met dat document de basis voor alle geschreven communicatie in Samenspraak.  
+De bedoeling is dat teksten, of ze nu door mensen of door hulpmiddelen worden geschreven, dezelfde rust, helderheid en zorgvuldigheid behouden.
 
 ---
 
@@ -30,7 +27,8 @@ Niet om nadruk, maar om zorgvuldigheid in wat gezegd wordt en hoe.
 
 ### Helder en gewoon
 - Gebruik begrijpelijke taal zonder jargon of modewoorden.  
-- Schrijf korte zinnen waar dat de rust ten goede komt.  
+- Schrijf korte zinnen waar dat de rust ten goede komt.
+- Gebruik regeleinden alleen om alinea’s te scheiden, niet om zinsdelen visueel af te breken.  
 - Laat beeldspraak en opsmuk achterwege.
 
 ### Rustig en precies
@@ -107,7 +105,8 @@ wanneer teksten worden bewerkt of samengevoegd met Repomix.
   Gebruik lijstjes alleen waar ze structuur verbeteren.
 
 ### Aanbevolen
-- **Eenvoudige interpunctie**: punt, komma en dubbele punt.  
+- **Eenvoudige interpunctie**: punt, komma en dubbele punt.
+- **Gebruik regeleinden alleen om alinea’s te scheiden**, niet om zinsdelen visueel af te breken.  
 - **Rustige witruimte** tussen alinea’s.  
 - **Korte zelfstandige zinnen** zonder ritmische streepjes.  
 - **Neutrale toon** zonder oordeel of overtuiging.
@@ -159,17 +158,13 @@ Daarom letten we op:
 
 ## 7. Gebruik binnen het project
 
-Deze gids vormt samen met het [Manifesto](MANIFESTO.md)  
-de basis voor de toon en waarden van alle communicatie in Samenspraak.  
-Wanneer de repository wordt samengevoegd met **Repomix**,  
-wordt deze tekst automatisch opgenomen in de context die ChatGPT gebruikt.  
+Deze gids vormt samen met het [Manifesto](MANIFESTO.md) de basis voor de toon en waarden van alle communicatie in Samenspraak.  
+Wanneer de repository wordt samengevoegd met **Repomix**, wordt deze tekst automatisch opgenomen in de context die ChatGPT gebruikt.  
 
-Zo blijven toon en houding consistent,  
-ongeacht of een tekst door een mens of door een hulpmiddel is geschreven.
+Zo blijven toon en houding consistent, ongeacht of een tekst door een mens of door een hulpmiddel is geschreven.
 
 Regelmatig wordt deze gids herzien in samenhang met het Manifest.  
-Gebruik daarvoor het issue *Ethics & Language Review*  
-om te onderzoeken of toon, waarden en toepassing nog overeenkomen met de actuele praktijk.
+Gebruik daarvoor het issue *Ethics & Language Review* om te onderzoeken of toon, waarden en toepassing nog overeenkomen met de actuele praktijk.
 
 ---
 
@@ -188,7 +183,5 @@ om te onderzoeken of toon, waarden en toepassing nog overeenkomen met de actuele
 
 ### Slot
 
-Deze gids helpt om ook automatisch gegenereerde taal  
-dezelfde aandacht en rust te laten dragen als menselijke tekst.  
-Niet om de stem van mensen te vervangen,  
-maar om haar zorgvuldiger te laten klinken.
+Deze gids helpt om ook automatisch gegenereerde taal dezelfde aandacht en rust te laten dragen als menselijke tekst.  
+Niet om de stem van mensen te vervangen, maar om haar zorgvuldiger te laten klinken.

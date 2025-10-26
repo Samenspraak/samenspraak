@@ -2,8 +2,7 @@
 
 Deze gids legt uit hoe je binnen Samenspraak werkt met prompts.  
 Een prompt is de tekst waarmee een taalmodel wordt aangesproken.  
-De bedoeling is te begrijpen hoe een gesprek stap voor stap ontstaat  
-en hoe observaties zorgvuldig kunnen worden vastgelegd.
+De bedoeling is te begrijpen hoe een gesprek stap voor stap ontstaat en hoe observaties zorgvuldig kunnen worden vastgelegd.
 
 ---
 
@@ -198,6 +197,4 @@ De manier van werken is afgeleid van het [Manifest](../MANIFESTO.md) en de [Gove
 ## Slot
 
 Elke prompt is een uitnodiging tot aandacht.  
-Door zorgvuldig te testen en te beschrijven  
-helpen we technologie om menselijk te blijven klinken  
-en leren we zelf beter luisteren.
+Door zorgvuldig te testen en te beschrijven helpen we technologie om menselijk te blijven klinken en leren we zelf beter luisteren.

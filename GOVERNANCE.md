@@ -16,8 +16,7 @@ Het doel is niet om regels te maken, maar om te zorgen dat de keuzes die we neme
 ## 1. Uitgangspunt
 
 We bouwen aan iets dat van iedereen mag zijn, en dat vraagt om openheid.  
-Beslissingen worden genomen in het openbaar (bijvoorbeeld via GitHub-discussies of issues)  
-en worden kort vastgelegd zodat zichtbaar blijft hoe ze tot stand kwamen.  
+Beslissingen worden genomen in het openbaar (bijvoorbeeld via GitHub-discussies of issues) en worden kort vastgelegd zodat zichtbaar blijft hoe ze tot stand kwamen.  
 
 Bij elke keuze vragen we ons af:
 
@@ -25,8 +24,7 @@ Bij elke keuze vragen we ons af:
 2. Behoudt dit ruimte voor verschil en openheid van perspectieven?  
 3. Versterkt dit de menselijke kant van het project, of verschuift het naar techniek of macht?
 
-Als een besluit niet goed te verantwoorden is aan de hand van deze drie vragen,  
-gaan we terug naar de bedoeling van het manifest.
+Als een besluit niet goed te verantwoorden is aan de hand van deze drie vragen, gaan we terug naar de bedoeling van het manifest.
 
 ---
 
@@ -35,8 +33,7 @@ gaan we terug naar de bedoeling van het manifest.
 Zolang de groep klein is, nemen we besluiten op basis van overleg en vertrouwen.  
 Iedereen kan een voorstel doen; het belangrijkste is dat het zichtbaar is en beargumenteerd.  
 
-Belangrijke keuzes (zoals richting, samenwerking met andere partijen of technische architectuur)  
-worden vastgelegd in een kort bestand: [`DECISIONS.md`](DECISIONS.md).  
+Belangrijke keuzes (zoals richting, samenwerking met andere partijen of technische architectuur) worden vastgelegd in een kort bestand: [`DECISIONS.md`](DECISIONS.md).  
 Daarin staat de datum, context, de gemaakte afweging en eventueel een verwijzing naar de discussie.
 
 ---
@@ -74,8 +71,7 @@ Niet om te wantrouwen, maar om transparant te blijven.
 ## 5. Herijking van het manifest
 
 Het manifest is geen vaststaand document.  
-We bekijken het periodiek – bijvoorbeeld eens per jaar –  
-om te zien of de tekst nog past bij hoe we werken en wat we geleerd hebben.  
+We bekijken het periodiek, bijvoorbeeld eens per jaar, om te zien of de tekst nog past bij hoe we werken en wat we geleerd hebben.  
 
 Iedereen kan voorstellen doen om iets aan te scherpen of toe te voegen.  
 Aanpassingen worden alleen doorgevoerd als de meerderheid vindt dat ze de bedoeling versterken,  
@@ -95,8 +91,5 @@ niet veranderen.
 
 ## 7. Tot slot
 
-Deze afspraken zijn er niet om het proces ingewikkeld te maken,  
-maar om te zorgen dat we trouw blijven aan waarom *Samenspraak* is begonnen:  
-ruimte maken voor gesprek dat menselijk blijft,  
-ook als de groep groeit, de thema’s ingewikkelder worden  
-of de belangen groter.
+Deze afspraken zijn er niet om het proces ingewikkeld te maken, maar om te zorgen dat we trouw blijven aan waarom *Samenspraak* is begonnen:  
+ruimte maken voor gesprek dat menselijk blijft, ook als de groep groeit, de thema’s ingewikkelder worden of de belangen groter.
