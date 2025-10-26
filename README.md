@@ -46,6 +46,8 @@ De documenten hieronder helpen om te verkennen, begrijpen en bijdragen.
 | **Routes voor bijdragen** | [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) | Uitleg over manieren om mee te doen. |
 | **Waarden en besluitvorming** | [`GOVERNANCE.md`](GOVERNANCE.md) | Over besluitvorming, rollen en transparantie. |
 
+Voor een volledig overzicht van alle documenten en hun functie, zie [index.md](index.md).
+
 ---
 
 ## Waarom nu
