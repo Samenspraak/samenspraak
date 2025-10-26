@@ -261,7 +261,25 @@ Zo blijft elk gesprek herleidbaar tot de gebruikte prompts en observaties.
 
 ---
 
-## 8. Slot
+## 8. Geavanceerde prompts en logica
+
+De voorbeelden in dit document tonen de basis van een gesprek dat rustig en uitlegbaar blijft.  
+In andere domeinen ontstaan complexere vormen van promptontwerp.  
+Daarin worden meerdere rollen, regels of stappen samengebracht binnen één tekst.  
+Sommige ontwerpen sturen volledige werkstromen aan of bewaken beveiliging en volgorde.  
+
+Deze ontwikkeling laat zien hoe taal ook kan worden gebruikt als vorm van logica.  
+Het biedt inzicht in hoe zorgvuldig geformuleerde tekst gedrag kan sturen, zonder dat er aparte code nodig is.  
+Voor Samenspraak is dit leerzaam.  
+Niet om dezelfde structuur te volgen, maar om te begrijpen hoe vorm en betekenis samen werken.  
+
+De gesprekslogica binnen Samenspraak blijft eenvoudig, zodat ze herkenbaar en bespreekbaar blijft.  
+Toch kan kennis van deze complexere vormen helpen om toekomstig onderzoek of uitbreiding beter te richten.  
+Zo ontstaat ruimte om te leren van andere toepassingen, zonder de rust en openheid van het gesprek te verliezen.
+
+---
+
+## 9. Slot
 
 De gesprekslogica van Samenspraak draait om aandacht, rust en menselijke maat.  
 De prompts zijn niet bedoeld om taal te sturen, maar om ruimte te bieden aan verschil.  
