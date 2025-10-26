@@ -68,8 +68,7 @@ We werken aan:
 - het documenteren van gesprekslogica;  
 - het verzamelen van observaties over toon, bias en neutraliteit.  
 
-De technische componenten volgen later,  
-zoals beschreven in de [`ROADMAP.md`](ROADMAP.md).
+De technische componenten volgen later, zoals beschreven in de [`ROADMAP.md`](ROADMAP.md).
 
 ---
 
@@ -85,9 +84,7 @@ Elke vorm van aandacht helpt Samenspraak groeien.
 - Schrijven aan documentatie, toon en onderzoek.  
 - Ontwikkelen aan backend (Python) of frontend & UX.  
 
-Zie [`CONTRIBUTING.md`](CONTRIBUTING.md)  
-en [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md)  
-voor uitleg per route.
+Zie [`CONTRIBUTING.md`](CONTRIBUTING.md) en [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) voor uitleg per route.
 
 ---
 
