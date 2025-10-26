@@ -5,12 +5,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Deze review helpt om na te gaan of de taal en toon in de repository
-        nog in lijn zijn met het [Manifesto](../../MANIFESTO.md)
-        en de [LLM Prompt Style and Language Guide](../../LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).
+        Deze review helpt om na te gaan of de taal en toon in de repository nog in lijn zijn met het [Manifesto](../../MANIFESTO.md) en de [LLM Prompt Style and Language Guide](../../LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).
 
-        Het doel is niet om fouten aan te wijzen, maar om stil te staan bij
-        hoe zorgvuldig en helder we met taal omgaan.
+        Het doel is niet om fouten aan te wijzen, maar om stil te staan bij hoe zorgvuldig en helder we met taal omgaan.
 
   - type: dropdown
     id: scope
