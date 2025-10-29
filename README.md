@@ -46,6 +46,17 @@ Voor een volledig overzicht van alle bestanden, zie [`INDEX.md`](INDEX.md).
 
 ---
 
+## Gebruik in de praktijk
+
+Naast de beschrijving van principes en logica bevat Samenspraak ook mogelijke richtingen voor toepassing.  
+In [Gebruikssituaties – Samenspraak in de praktijk](./docs/USE_CASES.md) wordt verkend hoe de uitgangspunten uit [Prompts & Logic](./docs/PROMPTS_AND_LOGIC.md) zich kunnen vertalen naar concrete situaties.  
+De voorbeelden beschrijven hoe Samenspraak kan worden gebruikt ter voorbereiding op gesprekken, bij reflectie achteraf of in dialoogvorm.  
+
+De vormen zijn richtinggevend en kunnen zich verder ontwikkelen naarmate het project groeit.  
+Ze maken zichtbaar hoe technologie, taal en houding samenkomen in de leerweg van Samenspraak.
+
+---
+
 ## Waarom nu
 
 Gesprekken met taalmodellen worden alledaags.  
