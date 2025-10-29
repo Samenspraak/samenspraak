@@ -100,6 +100,14 @@ Wie hulpmiddelen gebruikt zoals ChatGPT of Repomix, neemt deze bestanden als vas
 
 ---
 
+## Over de totstandkoming van de teksten
+
+Veel teksten in deze repository zijn mede tot stand gekomen met hulp van taalmodellen zoals ChatGPT.  
+Dat maakte het mogelijk om het project sneller vorm en samenhang te geven in de beginfase.  
+Alle onderdelen zijn daarna zorgvuldig herzien, zodat de toon, betekenis en intentie van Samenspraak behouden blijven.
+
+---
+
 ## Licentie
 
 Samenspraak is vrij beschikbaar onder de GNU Affero General Public License v3.0 (AGPLv3).  
