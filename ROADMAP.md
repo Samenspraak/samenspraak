@@ -6,7 +6,7 @@ Samenspraak is een open experiment.
 We beginnen klein, met prompts en gesprekken die iedereen zelf kan testen, en bouwen stap voor stap verder richting een stabiel platform.
 
 Naast technische ontwikkeling wordt nadruk gelegd op taal, toon en maatschappelijke toepassing.  
-Reflectieve en menselijke bijdragen zijn gelijkwaardig aan code of ontwerp.
+Het project beschouwt reflectieve en technische bijdragen als gelijkwaardig.
 
 Deze roadmap laat zien welke stadia we kunnen doorlopen.  
 Niet als harde planning, maar als richting.  
@@ -70,7 +70,7 @@ We groeien in tempo en vorm zodra er meer mensen meedoen.
 - Jaarlijkse herijking van manifest en governance  
 - Mogelijke spin-offs of toepassingen in onderwijs, beleid of buurtinitiatieven
 
-*Eindpunt:* Samenspraak blijft klein van toon, maar stevig van fundament.
+*Eindpunt:* Samenspraak blijft kleinschalig in toon en zorgvuldig in opzet.
 
 ---
 
