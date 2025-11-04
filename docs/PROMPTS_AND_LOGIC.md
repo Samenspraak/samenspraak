@@ -285,7 +285,7 @@ De gesprekslogica van Samenspraak draait om aandacht, rust en menselijke maat.
 De prompts zijn niet bedoeld om taal te sturen, maar om ruimte te bieden aan verschil.  
 Door te werken met vaste, gemeenschappelijk ontwikkelde teksten blijft Samenspraak transparant, uitlegbaar en zorgzaam.  
 
-De kracht van taalmodellen wordt hier niet beperkt, maar gericht.  
+De inzet van taalmodellen is hier gericht op reflectie in plaats van efficiëntie.  
 Samenspraak gebruikt LLM’s als middel om taal te verkennen, niet om betekenis te bepalen.  
 Het model brengt taal in beweging binnen vaste kaders, terwijl mensen zelf richting, interpretatie en verantwoordelijkheid behouden.
 

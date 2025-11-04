@@ -7,8 +7,8 @@ De vormen kunnen veranderen naarmate gesprekken, technologie en inzichten zich v
 Deze vormen kunnen later worden onderzocht, getest en verfijnd.  
 Ze beschrijven geen product, maar mogelijkheden binnen de leerweg van Samenspraak.
 
-Samenspraak ondersteunt mensen die willen leren omgaan met verschil zonder het te verkleinen.  
-Het helpt taal te vinden voor wat onder een meningsverschil ligt: waarden, zorgen en intenties.  
+Samenspraak kan worden gebruikt door mensen die willen oefenen met verschil en dialoog.
+Het helpt mensen woorden te vinden voor waarden of zorgen in een gesprek.
 De nadruk ligt niet op overtuigen, maar op leren luisteren en samen betekenis geven.
 
 ---
@@ -82,5 +82,4 @@ Het project kan zich ontwikkelen naar aanvullende gebieden, zoals:
 - onderzoek naar taalpatronen in besluitvorming;  
 - koppeling met educatieve of journalistieke contexten.
 
-Welke richting het ook neemt, de kern blijft gelijk:  
-taal gebruiken om menselijkheid in gesprek te behouden.
+Welke richting het ook neemt, Samenspraak behoudt dezelfde uitgangspunten.

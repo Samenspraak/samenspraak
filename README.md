@@ -61,7 +61,7 @@ Ze maken zichtbaar hoe technologie, taal en houding samenkomen in de leerweg van
 
 Gesprekken met taalmodellen worden alledaags.  
 Ze versnellen, sturen en vullen aan.  
-Daardoor verdwijnt soms de ruimte om echt te luisteren.  
+Daardoor lijkt er minder ruimte om rustig te luisteren.
 
 Samenspraak is begonnen vanuit de wens om die ruimte terug te brengen.  
 Het onderzoekt hoe technologie kan helpen om aandachtiger te spreken en te luisteren.  

@@ -6,7 +6,7 @@ Door te schrijven, te onderzoeken, te ontwerpen of te bouwen.
 
 Het project draait om taal en aandacht.  
 Techniek ondersteunt dat, maar bepaalt het niet.  
-De waarde ligt in hoe mensen samen leren spreken en luisteren met zorg.
+De waarde ligt in gezamenlijke oefening in spreken en luisteren met aandacht.
 
 ---
 
@@ -188,7 +188,7 @@ Aandacht en rust wel.
 
 ## 7. Gelijkwaardigheid van routes
 
-Alle routes dragen bij aan hetzelfde doel.  
+Elke route ondersteunt dezelfde bedoeling.
 Techniek ondersteunt, maar bepaalt niet de richting.  
 Reflectie, taal en ontwerp zijn even belangrijk als code.  
 Iedere bijdrage helpt Samenspraak helder en menselijk te houden.
