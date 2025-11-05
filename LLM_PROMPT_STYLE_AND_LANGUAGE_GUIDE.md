@@ -42,6 +42,17 @@ Niet om nadruk, maar om zorgvuldigheid in wat gezegd wordt en hoe.
 - Schrijf op een manier die uitnodigt tot meedenken, niet tot instemmen.  
 - Vermijd sturende zinnen zoals “het is belangrijk dat…” of “je moet beseffen dat…”.
 
+### Zuiver en toetsbaar
+- Formuleer alleen wat te onderzoeken of te verifiëren is.  
+- Vermijd uitspraken die klinken als feit maar gebaseerd zijn op aannames of overtuigingen.  
+- Schrijf vanuit ervaring, observatie of ontwerpkeuze.  
+- Gebruik geen algemene beweringen over mensen, de samenleving of “de tijd waarin we leven”.  
+- Laat taal geen nadruk of overtuiging dragen; helderheid gaat voor beeldspraak.  
+- Breng bij twijfel een zin terug tot wat zichtbaar of ervaarbaar is.  
+
+Zo blijft de toon rustig, precies en trouw aan de bedoeling van Samenspraak:  
+taal gebruiken om te verhelderen in plaats van te sturen.    
+
 ---
 
 ## 3. Toon en stem
