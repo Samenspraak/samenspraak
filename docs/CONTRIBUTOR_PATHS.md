@@ -23,22 +23,21 @@ Ze zijn gelijkwaardig in waarde en doel.
 | **D. Frontend en ontwerp** | Werken aan toegankelijkheid en ervaring | Via ontwerpvoorstellen of schetsen |
 | **E. Gesprek en reflectie** | Observeren hoe taal, toon en verschil zich tonen in echte gesprekken | Via observaties of reflecties |
 
-Elke route kan afzonderlijk of samen met anderen worden gevolgd.
+Elke route kan afzonderlijk of samen met anderen worden gevolgd.  
 
 
 ---
 
 ## 2. Route A – Prompttesten
 Prompts vormen de kern van Samenspraak.  
-Prompts vormen de kern van Samenspraak.  
-Ze worden getest om te zien hoe toon en betekenis behouden blijven.
+Ze worden getest om te zien hoe toon en betekenis behouden blijven.  
 
 ---
 
 ### A₁. Prompttesten (non-tech)
 
 Deze route is bedoeld voor iedereen die wil experimenteren met Samenspraak-prompts.  
-Je hebt **geen technische kennis** nodig.
+Je hebt **geen technische kennis** nodig.  
 
 **Zo werkt het**
 1. Ga naar de GitHub-pagina van Samenspraak.  
@@ -49,25 +48,25 @@ Je hebt **geen technische kennis** nodig.
    - Post-prompt  
    - Reactie van het model  
    - Observaties (toon, bias, veiligheid)  
-4. Klik op *Submit new issue*.
+4. Klik op *Submit new issue*.  
 
 Je bijdrage wordt automatisch geregistreerd.  
-Er is geen installatie of commit nodig.
+Er is geen installatie of commit nodig.  
 
 ---
 
 ### A₂. Prompttesten (tech)
 
-Voor ontwikkelaars of testers die dezelfde test **in code of dataformaat** willen uitvoeren.
+Voor ontwikkelaars of testers die dezelfde test **in code of dataformaat** willen uitvoeren.  
 
-**Doel**
+**Doel**  
 - Technisch reproduceren wat in A₁ wordt getest.  
 - Nieuwe combinaties of modules voor reflectieve logica uitproberen.  
-- Data voorbereiden voor bias-analyse of toekomstige automatisering.
+- Data voorbereiden voor bias-analyse of toekomstige automatisering.  
 
-**Formaat**
+**Formaat**  
 
-Je kunt prompttests opslaan in JSON binnen `/experiments/`, bijvoorbeeld:
+Je kunt prompttests opslaan in JSON binnen `/experiments/`, bijvoorbeeld:  
 
 ~~~json
 {
@@ -85,7 +84,7 @@ Je kunt prompttests opslaan in JSON binnen `/experiments/`, bijvoorbeeld:
 1. Maak (of update) een map in `/experiments/` met een beschrijvende naam.  
 2. Voeg een of meer JSON-bestanden toe volgens bovenstaand formaat.  
 3. Dien een pull request in of link het bestand in een issue met label `prompt-test` en `backend`.  
-4. Gebruik eventueel de CLI of API uit `backend/samenspraak` om lokaal te testen.
+4. Gebruik eventueel de CLI of API uit `backend/samenspraak` om lokaal te testen.  
 
 ---
 
@@ -99,37 +98,37 @@ Je kunt prompttests opslaan in JSON binnen `/experiments/`, bijvoorbeeld:
 | Focus op toon en betekenis | Focus op structuur en automatisering |
 
 Beide routes hebben hetzelfde doel:  
-het leren begrijpen hoe taalmodellen reflectieve gesprekken kunnen ondersteunen.
+het leren begrijpen hoe taalmodellen reflectieve gesprekken kunnen ondersteunen.  
 
 ---
 
 ## 3. Route B – Documentatie & onderzoek
 
-Voor inhoudelijke of redactionele bijdragen.
+Voor inhoudelijke of redactionele bijdragen.  
 
 ### Mogelijke bijdragen
 - Verbeteringen aan documentatie (toon, toegankelijkheid, neutraliteit).  
 - Reflecties over gesprekslogica, waarden of veiligheid.  
 - Onderzoek naar bias, neutraliteit of ethische grenzen.  
-- Vertalingen of samenvattingen van bestaande documenten.
+- Vertalingen of samenvattingen van bestaande documenten.  
 
 ### Hoe in te dienen
 - Via een GitHub Issue met label `docs` of `ethics`.  
-- Of als pull request op relevante markdownbestanden in `/docs`.
+- Of als pull request op relevante markdownbestanden in `/docs`.  
 
-Er is geen codekennis nodig — wel zorgvuldigheid en transparantie.
+Er is geen codekennis nodig — wel zorgvuldigheid en transparantie.  
 
 ---
 
 ## 4. Route C – Backend (Python)
 
-Voor ontwikkelaars die willen bijdragen aan de technische basis van Samenspraak.
+Voor ontwikkelaars die willen bijdragen aan de technische basis van Samenspraak.  
 
-De backend wordt gebouwd in **Python**, met:
+De backend wordt gebouwd in **Python**, met:  
 - **FastAPI** voor de API-laag  
 - **LangChain** voor gesprekslogica  
 - **Typer** voor de CLI  
-- **uv/pyproject.toml** voor pakketbeheer
+- **uv/pyproject.toml** voor pakketbeheer. 
 
 ### Structuur (in opbouw)
 
@@ -147,13 +146,13 @@ backend/
 - Houd functies klein, transparant en uitlegbaar.  
 - Gebruik duidelijke docstrings en type hints.  
 - Focus op reflectieve functies: toon, neutraliteit, veiligheid, logging.  
-- Nieuwe modules worden besproken via een issue met label `backend`.
+- Nieuwe modules worden besproken via een issue met label `backend`.  
 
 ---
 
 ## 5. Route D – Frontend en ontwerp
 
-Deze route richt zich op toekomstige fases (3–4), wanneer een interface of prototype wordt ontwikkeld.
+Deze route richt zich op toekomstige fases (3–4), wanneer een interface of prototype wordt ontwikkeld.  
 
 ### Mogelijke bijdragen
 - Ideeën of schetsen voor een eenvoudige, toegankelijke webinterface.  
@@ -162,36 +161,36 @@ Deze route richt zich op toekomstige fases (3–4), wanneer een interface of pro
 
 ### Hoe in te dienen
 - Via een Issue met label `frontend` of `design`.  
-- Of via een pull request in `/frontend` zodra die map actief is.
+- Of via een pull request in `/frontend` zodra die map actief is.  
 
 ---
 
 ## 6. Route E – Gesprek en reflectie
 
 Iedereen heeft ervaring met taal, verschil en mening.  
-Deze route biedt ruimte om die ervaring te onderzoeken.
+Deze route biedt ruimte om die ervaring te onderzoeken.  
 
 ### Doel
 - Observeren hoe gesprekken verlopen.  
 - Opmerken wat toon of begrip beïnvloedt.  
-- Delen van reflecties die helpen Samenspraak menselijk te houden.
+- Delen van reflecties die helpen Samenspraak menselijk te houden.  
 
 ### Werkwijze
 1. Beschrijf kort een gesprek of test die je observeerde.  
 2. Noteer wat opviel in houding, toon of verloop.  
-3. Deel dit via een issue met label `reflection` of `ethics`.
+3. Deel dit via een issue met label `reflection` of `ethics`.  
 
 Technische kennis is niet nodig.  
-Aandacht en rust wel.
+Aandacht en rust wel.  
 
 ---
 
 ## 7. Gelijkwaardigheid van routes
 
-Elke route ondersteunt dezelfde bedoeling.
+Elke route ondersteunt dezelfde bedoeling.  
 Techniek ondersteunt, maar bepaalt niet de richting.  
 Reflectie, taal en ontwerp zijn even belangrijk als code.  
-Iedere bijdrage helpt Samenspraak helder en menselijk te houden.
+Iedere bijdrage helpt Samenspraak helder en menselijk te houden.  
 
 ---
 
@@ -204,4 +203,4 @@ Wie wil bijdragen, brengt altijd iets mee.
 Ervaring met woorden, met luisteren of met bouwen.  
 
 Elke route begint bij dezelfde houding.  
-Open, rustig en zonder haast.
+Open, rustig en zonder haast.  
