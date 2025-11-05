@@ -59,16 +59,17 @@ Ze maken zichtbaar hoe technologie, taal en houding samenkomen in de leerweg van
 
 ## Waarom nu
 
-Gesprekken met taalmodellen worden alledaags.  
-Ze versnellen, sturen en vullen aan.  
-Daardoor lijkt er minder ruimte om rustig te luisteren.  
+Taalmodellen zijn tegenwoordig breed beschikbaar en eenvoudig te gebruiken.  
+Ze verschijnen in omgevingen waar mensen communiceren, schrijven of samenwerken.  
 
-Samenspraak is begonnen vanuit de wens om die ruimte terug te brengen.  
-Het onderzoekt hoe technologie kan helpen om aandachtiger te spreken en te luisteren.  
+Samenspraak maakt gebruik van diezelfde middelen om iets anders te onderzoeken:  
+hoe technologie kan helpen om gesprekken aandachtiger te voeren.  
 
-De nadruk ligt niet op schaal of snelheid, maar op rust, betekenis en gesprek.  
-Wat hier beschreven staat, is een beginpunt.  
-Het groeit mee met wat er onderweg wordt geleerd.  
+In plaats van taal te gebruiken om sneller te reageren, richt Samenspraak zich op het vertragen van gesprekken.  
+Het project onderzoekt hoe woorden ruimte kunnen scheppen voor luisteren, vragen en betekenis.  
+
+Nu deze technologie toegankelijk is, kan ook het experiment plaatsvinden om haar mensgericht in te zetten.  
+Samenspraak doet dat stap voor stap, in open ontwikkeling en met gedeelde lessen.  
 
 ---
 
