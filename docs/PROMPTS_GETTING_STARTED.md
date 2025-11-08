@@ -196,7 +196,7 @@ De manier van werken is afgeleid van het [Manifest](../MANIFESTO.md) en de [Gove
 | **Observatie** | Let op toon, bias, veiligheid en continuïteit |
 | **Notatie** | Gebruik JSON of formulier |
 | **Doel** | Reflectie, niet prestatie |
-| **Bron** | Manifest en LLM Prompt Style and Language Guide |
+| **Bron** | Manifest en Style and Language Guide |
 
 ---
 

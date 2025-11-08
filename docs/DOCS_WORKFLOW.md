@@ -1,4 +1,6 @@
-# Werken met ChatGPT en Repomix
+# Werken met ChatGPT of andere LLMs
+
+> Wie handmatig schrijft, gebruikt de richtlijnen uit [`STYLE_AND_LANGUAGE_GUIDE.md`](STYLE_AND_LANGUAGE_GUIDE.md).
 
 ## 1. Doel van deze werkwijze
 
@@ -8,7 +10,7 @@ Het doel is niet om teksten automatisch te laten produceren, maar om samen met h
 Om te zorgen dat ook automatisch gegenereerde tekst dezelfde toon en waarden behoudt als de rest van het project, worden altijd twee documenten als basis gebruikt:
 
 1. [`MANIFESTO.md`](../MANIFESTO.md) – de maatschappelijke en morele grondslag.  
-2. [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](../LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md) – de richtlijnen voor taal en toon.
+2. [`AGENTS.md`](../AGENTS.md) – de richtlijnen voor houding, taal en gedrag van LLM-agents.
 
 Wanneer deze bestanden aanwezig zijn, kan het hulpmiddel schrijven in de geest van Samenspraak: rustig, open en reflectief.
 
@@ -49,7 +51,7 @@ De UI produceert hetzelfde resultaat als de CLI-versie en helpt bij gezamenlijk 
 ## 3. Richtlijnen voor gebruik
 
 - Gebruik taalhulpmiddelen als ondersteuning, niet als vervanging van reflectie.  
-- Laat het hulpmiddel werken binnen de kaders van het Manifest en de LLM Prompt Style and Language Guide.  
+- Laat het hulpmiddel werken binnen de kaders van het Manifest en de AGENTS.md.  
 - Voeg geen aparte tooninstructies toe in prompts; de gids bepaalt al de gewenste houding.  
 - Controleer of de gegenereerde tekst past bij de waarden van Samenspraak: rustig, transparant en niet overtuigend.  
 - Noteer bij twijfel een observatie in een issue met het label `ethics-check`.
@@ -60,11 +62,11 @@ De UI produceert hetzelfde resultaat als de CLI-versie en helpt bij gezamenlijk 
 
 Wie werkt aan documentatie of aan tests van prompts:
 
-- Lees de samenvatting in [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](../LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).  
-- Gebruik ChatGPT of een ander hulpmiddel met deze bestanden in de context,  
-  zodat toon en stijl consistent blijven.  
-- Plaats vragen of voorstellen over stijl in een *Ethics & Language Review*-issue.  
-- Zie documentatie als een verlengde van het gesprek dat Samenspraak wil ondersteunen: open, zorgvuldig en menselijk.
+- Gebruik ChatGPT, Repomix of een ander hulpmiddel met [`AGENTS.md`](../AGENTS.md) in de context.  
+  Zo blijven toon, waarden en gedrag van agents consistent met het project.  
+- Volg bij het schrijven de stappen in deze workflow en gebruik de taal en houding uit `AGENTS.md` als vaste basis.  
+- Plaats vragen of voorstellen over toon of stijl in een *Ethics & Language Review*-issue.  
+- Zie documentatie als een verlengde van het gesprek dat Samenspraak wil ondersteunen: open, zorgvuldig en menselijk.  
 
 ---
 
@@ -72,7 +74,7 @@ Wie werkt aan documentatie of aan tests van prompts:
 
 | Onderwerp | Richtlijn |
 |------------|-----------|
-| **Context** | Gebruik `MANIFESTO.md` en `LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md` als vaste basis. |
+| **Context** | Gebruik `MANIFESTO.md` en `AGENTS.md` als vaste basis. |
 | **Doel** | Automatisch gegenereerde tekst afstemmen op de waarden van Samenspraak. |
 | **Werkwijze** | Gebruik Repomix-CLI of Repomix-UI om één contextbestand te maken. |
 | **Toon** | Rustig, reflectief, neutraal, zonder oordeel. |

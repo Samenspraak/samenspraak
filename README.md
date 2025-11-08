@@ -35,10 +35,10 @@ Ze zijn in een volgorde gezet die helpt om stap voor stap te begrijpen hoe Samen
 | Stap | Onderwerp | Document | Doel |
 |------|------------|-----------|------|
 | 1 | **Richting en waarden** | [`MANIFESTO.md`](MANIFESTO.md) | Waarom Samenspraak bestaat en wat het wil ondersteunen. |
-| 2 | **Toon en taal** | [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md) | Hoe rust, neutraliteit en helderheid worden bewaakt. |
+| 2 | **Toon en taal** | [`STYLE_AND_LANGUAGE_GUIDE.md`](docs/STYLE_AND_LANGUAGE_GUIDE.md) | Hoe rust, neutraliteit en helderheid worden bewaakt. |
 | 3 | **Werken met prompts** | [`docs/PROMPTS_GETTING_STARTED.md`](docs/PROMPTS_GETTING_STARTED.md) | Zelf oefenen met voorbeeldprompts. |
 | 4 | **Opbouw en logica** | [`docs/PROMPTS_AND_LOGIC.md`](docs/PROMPTS_AND_LOGIC.md) | Begrijpen hoe Samenspraak gesprekken structureert. |
-| 5 | **Samen schrijven** | [`docs/DOCS_WORKFLOW.md`](docs/DOCS_WORKFLOW.md) | Werkwijze bij schrijven met hulpmiddelen zoals ChatGPT of Repomix. |
+| 5 | **Documentatie schrijven met LLMs** | [`docs/DOCS_WORKFLOW.md`](docs/DOCS_WORKFLOW.md) | Werkwijze bij schrijven met hulpmiddelen zoals ChatGPT. |
 | 6 | **Routes voor bijdragen** | [`docs/CONTRIBUTOR_PATHS.md`](docs/CONTRIBUTOR_PATHS.md) | Uitleg over manieren om bij te dragen. |
 | 7 | **Waarden en besluitvorming** | [`GOVERNANCE.md`](GOVERNANCE.md) | Hoe keuzes worden genomen en waarden worden bewaakt. |
 
@@ -105,10 +105,10 @@ Zie [`CONTRIBUTING.md`](CONTRIBUTING.md) en [`docs/CONTRIBUTOR_PATHS.md`](docs/C
 
 ## Werken met toon en taal
 
-Alle teksten in deze repository volgen de richtlijnen uit [`LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md`](LLM_PROMPT_STYLE_AND_LANGUAGE_GUIDE.md).  
+Alle teksten in deze repository volgen de richtlijnen uit [`STYLE_AND_LANGUAGE_GUIDE.md`](docs/STYLE_AND_LANGUAGE_GUIDE.md).  
 Samen met het Manifest bepaalt dit bestand hoe Samenspraak klinkt en schrijft.  
 
-Wie hulpmiddelen gebruikt zoals ChatGPT of Repomix, neemt deze bestanden als vaste context zodat toon en waarden consistent blijven.  
+Wie hulpmiddelen zoals ChatGPT gebruikt in de ontwikkeling van het project, neemt [`AGENTS.md`](AGENTS.md) op in de context, zodat taal en houding van het project behouden blijven.
 
 ---
 
