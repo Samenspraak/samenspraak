@@ -1,10 +1,10 @@
-# LLM Prompt Style and Language Guide
+# Style and Language Guide
 
 Deze gids beschrijft hoe taal en toon binnen **Samenspraak** worden vormgegeven.  
-Ze helpt om automatisch gegenereerde teksten, zoals documentatie, prompts of toelichtingen, in lijn te houden met de waarden en houding van het project.
+Ze helpt om teksten, zoals documentatie, prompts of toelichtingen, in lijn te houden met de waarden en houding van het project.
 
 De richtlijnen zijn afgeleid van het [Manifesto](MANIFESTO.md) en vormen samen met dat document de basis voor alle geschreven communicatie in Samenspraak.  
-De bedoeling is dat teksten, of ze nu door mensen of door hulpmiddelen worden geschreven, dezelfde rust, helderheid en zorgvuldigheid behouden.
+De bedoeling is dat teksten dezelfde rust, helderheid en zorgvuldigheid behouden.
 
 ---
 
@@ -27,8 +27,7 @@ Niet om nadruk, maar om zorgvuldigheid in wat gezegd wordt en hoe.
 
 ### Helder en gewoon
 - Gebruik begrijpelijke taal zonder jargon of modewoorden.  
-- Schrijf korte zinnen waar dat de rust ten goede komt.
-- Gebruik regeleinden alleen om alinea’s te scheiden, niet om zinsdelen visueel af te breken.  
+- Schrijf korte zinnen waar dat de rust ten goede komt.  
 - Laat beeldspraak en opsmuk achterwege.
 
 ### Rustig en precies
@@ -75,12 +74,6 @@ Laat de tekst iets open zodat de lezer zelf kan nadenken:
 > “Er zijn meerdere manieren om hiernaar te kijken.”  
 > “Wat dit oproept kan verschillen per persoon.”
 
-### Respectvol
-Wees zorgvuldig zonder overmatige empathie:
-
-> “Goed dat je dit onderzoekt.”  
-> niet: “Wat fijn dat je dit deelt.”
-
 ---
 
 ## 4. Structuur en vorm
@@ -89,13 +82,12 @@ Wees zorgvuldig zonder overmatige empathie:
 - Geef de voorkeur aan lopende tekst boven opsomming van losse punten.  
 - Gebruik witruimte om rust te brengen.  
 - Houd koppen kort en beschrijvend.  
-- Vermijd meta-commentaar over de tekst zelf.  
 - Schrijf de inhoud in helder Nederlands.  
 - Bestandsnamen blijven Engels voor consistentie.
 
 ---
 
-## 4a. Technische stijlrichtlijnen
+## 5. Technische stijlrichtlijnen
 
 Deze richtlijnen helpen om de vorm en toon zuiver te houden  
 wanneer teksten worden bewerkt of samengevoegd met Repomix.
@@ -105,9 +97,7 @@ wanneer teksten worden bewerkt of samengevoegd met Repomix.
   Gebruik geen streepjes als ritmisch teken. Herschrijf de zin als pauze nodig is.  
 - **Koppeltekens in lopende tekst**  
   Gebruik alleen verbindingsstreepjes waar het grammaticaal vereist is,  
-  bijvoorbeeld in samengestelde woorden zoals `LLM_LANGUAGE_AND_TONE_GUIDE.md`.  
-- **Meta-taal** over hulpmiddelen of schrijfinstructies  
-  Schrijf niet tegen het hulpmiddel, maar over de gewenste houding of toon.  
+  bijvoorbeeld in samengestelde woorden zoals `STYLE_AND_LANGUAG_GUIDE_.md`.  
 - **Zinnen die de tekst aankondigen**  
   Vermijd formuleringen als “in dit hoofdstuk wordt uitgelegd”.  
 - **Overmatige typografische nadruk**  
@@ -121,38 +111,6 @@ wanneer teksten worden bewerkt of samengevoegd met Repomix.
 - **Rustige witruimte** tussen alinea’s.  
 - **Korte zelfstandige zinnen** zonder ritmische streepjes.  
 - **Neutrale toon** zonder oordeel of overtuiging.
-
-### Markdown en codeblokken
-
-Om consistente weergave in ChatGPT, GitHub en Repomix te behouden:
-
-- Gebruik altijd drie **backticks** (```) om een volledig codeblok te openen en te sluiten.  
-- Gebruik drie **tildes** (`~~~`) voor binnenliggende voorbeelden, zoals JSON of tekstfragmenten.  
-  Dit voorkomt dat een binnenblok het buitenste codeblok voortijdig afsluit.  
-- Gebruik `~~~text` of `~~~json` om de inhoudstype te verduidelijken.  
-- Plaats nooit geneste backticks binnen backticks.  
-- Gebruik witruimte vóór en na codeblokken om de leesbaarheid te behouden.
-
-Controleer bij toevoegingen of deze basisvorm behouden blijft.
-
----
-
-## 5. Schrijven met hulpmiddelen
-
-Wanneer taal wordt gegenereerd met behulp van ChatGPT of een vergelijkbaar hulpmiddel:
-
-1. **Rol:** hanteer een neutrale, onderzoekende en reflectieve houding.  
-2. **Invoer:** behoud de stem en toon van de gebruiker.  
-3. **Reactie:** geef één verhelderende of reflectieve reactie zonder advies of oordeel.  
-4. **Controle:** let op sturing, bias of interpretatie buiten de vraag.  
-5. **Herlees:** of de tekst zou passen in een rustig, menselijk gesprek.
-
-Voor technische of ondersteunende teksten:
-- Houd dezelfde toon: helder, rustig en zonder nadruk.  
-- Leg uit *wat* iets doet en *waarom*, niet wat iemand moet doen.  
-- Gebruik taal die uitlegt, niet voorschrijft.
-
----
 
 ## 6. Ethiek en zorgvuldigheid
 
@@ -170,7 +128,6 @@ Daarom letten we op:
 ## 7. Gebruik binnen het project
 
 Deze gids vormt samen met het [Manifesto](MANIFESTO.md) de basis voor de toon en waarden van alle communicatie in Samenspraak.  
-Wanneer de repository wordt samengevoegd met **Repomix**, wordt deze tekst automatisch opgenomen in de context die ChatGPT gebruikt.  
 
 Zo blijven toon en houding consistent, ongeacht of een tekst door een mens of door een hulpmiddel is geschreven.
 
@@ -190,9 +147,8 @@ Gebruik daarvoor het issue *Ethics & Language Review* om te onderzoeken of toon,
 | **Toepassing** | Geldt voor alle Samenspraak-teksten, inclusief automatisch gegenereerde |
 | **Bron** | Manifesto en gedeelde praktijkervaring |
 
----
+## Slot
 
-### Slot
-
-Deze gids helpt om ook automatisch gegenereerde taal dezelfde aandacht en rust te laten dragen als menselijke tekst.  
-Niet om de stem van mensen te vervangen, maar om haar zorgvuldiger te laten klinken.
+Schrijven binnen Samenspraak is een oefening in aandacht.  
+Of de tekst nu beschrijvend, technisch of reflectief is, de toon blijft rustig, helder en open.  
+Deze gids helpt om die houding te bewaren, zodat woorden bijdragen aan begrip, niet aan nadruk.
